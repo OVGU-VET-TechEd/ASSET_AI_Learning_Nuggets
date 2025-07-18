@@ -100,7 +100,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -137,13 +137,13 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -239,7 +239,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -276,13 +276,13 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -307,7 +307,7 @@ This is regular text content.
 >Action: Save as course.md and open in LiaScript editor at https://liascript.github.io/
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -344,13 +344,13 @@ This is regular text content.
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -383,7 +383,7 @@ This is regular text content.
 </svg>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -420,13 +420,13 @@ This is regular text content.
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -458,7 +458,7 @@ Fill in the blank: The capital of France is [[Paris]].
 
 >Practice: Create a quiz relevant to your subject area
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -495,13 +495,13 @@ Fill in the blank: The capital of France is [[Paris]].
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -533,7 +533,7 @@ Fill in the blank: The capital of France is [[Paris]].
 </svg>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -570,13 +570,13 @@ Fill in the blank: The capital of France is [[Paris]].
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -601,7 +601,7 @@ __Task: Embed videos, audio, and images__
 
 >Challenge: Add one multimedia element to your course
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -638,13 +638,13 @@ __Task: Embed videos, audio, and images__
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -676,7 +676,7 @@ __Task: Embed videos, audio, and images__
 </svg>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -713,13 +713,13 @@ __Task: Embed videos, audio, and images__
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -750,7 +750,7 @@ console.log('Number of students:', students.length);
 
 __Advanced: Add code execution for your subject (Python, JavaScript, HTML, etc.)__
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -787,13 +787,13 @@ __Advanced: Add code execution for your subject (Python, JavaScript, HTML, etc.)
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -825,7 +825,7 @@ __Advanced: Add code execution for your subject (Python, JavaScript, HTML, etc.)
 </svg>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -862,13 +862,13 @@ __Advanced: Add code execution for your subject (Python, JavaScript, HTML, etc.)
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -891,7 +891,7 @@ Share your thoughts:
 
     [[Your feedback here...]]
 ```
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -928,13 +928,13 @@ Share your thoughts:
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -957,7 +957,7 @@ Here's step one of the process.
 And here's the final result!
 ```
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -994,13 +994,13 @@ And here's the final result!
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1032,7 +1032,7 @@ And here's the final result!
   </text>
 </svg>
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1069,13 +1069,13 @@ And here's the final result!
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1119,7 +1119,7 @@ Additional materials and links...
 ```
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1156,13 +1156,13 @@ Additional materials and links...
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1191,7 +1191,7 @@ Additional materials and links...
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1228,13 +1228,13 @@ Additional materials and links...
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1254,7 +1254,7 @@ Additional materials and links...
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1291,13 +1291,13 @@ Additional materials and links...
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1317,7 +1317,7 @@ Additional materials and links...
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1354,13 +1354,13 @@ Additional materials and links...
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1388,7 +1388,7 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1425,13 +1425,13 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1455,7 +1455,7 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 </div>
 
 
-<!-- Leftmost: UNEVOC -->
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1492,13 +1492,13 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
@@ -1510,7 +1510,8 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 <p style="font-size: 1.5em; margin-top: 0;">For your time and participation.</p>
 
 </div>
-<!-- Leftmost: UNEVOC -->
+
+<!-- UNEVOC -->
 <div style="position: fixed; bottom: 20px; left: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/UNESCO-UNEVOC_logo.png?raw=true" alt="UNEVOC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">UNEVOC</div>
@@ -1547,13 +1548,13 @@ Before leaving today, create a 3-slide interactive mini-course on any topic you 
 </div>
 
 <!-- HRDC -->
-<div style="position: fixed; bottom: 20px; right: 140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<div style="position: fixed; bottom: 20px; left: 980px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/hrdc_logo.png?raw=true" alt="HRDC Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">HRDC</div>
 </div>
 
-<!-- Rightmost: MITD -->
-<div style="position: fixed; bottom: 20px; right: 20px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
+<!-- MITD -->
+<div style="position: fixed; bottom: 20px; left: 1140px; opacity: 0.9; z-index: 1000; text-align: center; width: 100px;">
   <img src="https://github.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/blob/main/media/mitd_logo.png?raw=true" alt="MITD Logo" style="height: 60px; width: auto; border-radius: 10px;" />
   <div style="font-size: 0.8em; color: #555; margin-top: 5px;">MITD</div>
 </div>
