@@ -1,4 +1,4 @@
-<!--
+> <!--
 author: Hannes Tegelbeckers
 email: hannes.tegelbeckers@ovgu.de
 version: 0.0.1
@@ -197,11 +197,9 @@ By the end of this workshop, you will be able to:
 5. **Fairness** - Ensuring equitable treatment for all users
 6. **Privacy** - Protecting personal data and respecting consent
 
-### Real-World Scenario
 
-Imagine you're **Alex**, a construction trades instructor preparing a lesson on smart lighting installation. You have access to an AI-based sensor system that detects wiring faults and optimizes energy use.
+!?[Stanford Human Centred AI Technology and Application](https://youtu.be/se4CQ5UZXaM)
 
-**Question:** Should Alex integrate this AI tool into the classroom? What factors should influence this decision?
 
 ## The Challenge of AI in TVET
 
@@ -210,24 +208,28 @@ Imagine you're **Alex**, a construction trades instructor preparing a lesson on 
 * Over 60% of educational tasks could be partially automated by AI
 * Educational systems worldwide must develop new approaches for the changing landscape
 * Students need digital and transversal competencies including:
+
   - Critical thinking
   - Communication skills
   - Media literacy
-  - Financial literacy
+  - Computational Thinking and Literacy
 
 ### Key Challenges
 
 **Technical Challenges:**
+
 - Data protection and privacy
 - Access inequalities to AI technologies
 - Ensuring authentic assessment
 
 **Pedagogical Challenges:**
+
 - Maintaining hands-on learning in technical fields
 - Developing teacher competencies
 - Balancing AI support with skill development
 
 **Ethical Challenges:**
+
 - Bias in AI systems
 - Student surveillance concerns
 - Over-reliance on automated systems
@@ -237,24 +239,66 @@ Imagine you're **Alex**, a construction trades instructor preparing a lesson on 
 ### Appropriate Use Cases
 
 **Interactive Simulations & Virtual Labs**
-> AI-powered simulations create safe, virtual environments to practice skills when physical equipment is limited.
 
-**Example:** An AI-driven smart sensor simulator for electrical engineering students to experiment with building lighting systems virtually.
+- AI-powered simulations create safe, virtual environments to practice skills when physical equipment is limited.
+
+> **Example:** An AI-driven smart sensor simulator for electrical engineering students to experiment with building lighting systems virtually.
 
 **Predictive Maintenance Dashboards**
-> Teaching students how AI analyzes sensor data to predict equipment failures.
 
-**Example:** AI dashboard predicting when motors or solar panels might need maintenance.
+- Teaching students how AI analyzes sensor data to predict equipment failures.
+
+> **Example:** AI dashboard predicting when motors or solar panels might need maintenance.
 
 **AI Tutors and Assistants**
-> Personalized support for theory learning and practice problems.
 
-**Example:** AI assistant that quizzes electrical trainees on circuit theory and adapts questions based on their mistakes.
+- Personalized support for theory learning and practice problems.
+
+> **Example:** AI assistant that quizzes electrical trainees on circuit theory and adapts questions based on their mistakes.
 
 **Data Analysis and Diagnostics**
-> AI tools for analyzing complex technical data.
 
-**Example:** AI-based analyzer helping students debug microcontroller code or electrical circuits.
+- AI tools for analyzing complex technical data.
+
+> **Example:** AI-based analyzer helping students debug microcontroller code or electrical circuits.
+
+
+### Real-World Scenario
+
+Imagine you're **Alex**, a construction trades instructor preparing a lesson on smart lighting installation. You have access to an AI-based sensor system that detects wiring faults and optimizes energy use.
+
+**Question:** Should Alex integrate this AI tool into the classroom? What factors should influence this decision?
+
+
+<div style="background: #E8F5E8; border-left: 4px solid #4CAF50; padding: 1rem; margin: 1rem 0;">
+
+### Task: Name 5 factors you came across so far
+
+**Think about Alex's decision from multiple perspectives:**
+
+**Technical Factor:** (e.g., complexity, reliability, maintenance)
+
+    [[___]]
+
+**Pedagogical Factor:** (e.g., learning objectives, teaching methods)
+
+    [[___]]
+
+**Safety Factor:** (e.g., electrical safety, student protection)
+
+    [[___]]
+
+**Resource Factor:** (e.g., cost, training needs, time)
+
+    [[___]]
+
+**Ethical Factor:** (e.g., privacy, data collection, student consent)
+
+    [[___]]
+
+</div>
+
+
 
 ## Part 2: Self-Assessment Quiz
 
@@ -336,12 +380,19 @@ You're teaching wiring fault diagnosis. Which approach best demonstrates human-c
 Fill in your specific context:
 
     [[___]]
+
     **Subject Area:** (e.g., electrical engineering, construction, automotive)
+
     [[___]]
+
     **Lesson Topic:** (e.g., circuit diagnosis, safety procedures, equipment maintenance)
+
     [[___]]
+
     **Learning Objective:** (what should students be able to do after the lesson?)
+
     [[___]]
+
     **Student Level:** (beginner, intermediate, advanced)
 
 **Step 2: AI Tool Analysis**
@@ -389,8 +440,11 @@ Based on your analysis, make your decision:
 
 **Step 4: Justification**
 
-    [[___]]
     **Explain your decision in 2-3 sentences:**
+
+    [[___]]
+
+
 
 ## Part 4: Group Discussion Activity
 
@@ -403,39 +457,51 @@ Based on your analysis, make your decision:
 > **Question:** How can AI contribute to more equitable education in your TVET field?
 
 Think about:
+
 - Students with different learning needs
 - Access to expensive equipment or materials
 - Language barriers
 - Geographic limitations
 
+**Your thoughts on AI opportunities:**
+
     [[___]]
-    **Your thoughts on AI opportunities:**
+
+
 
 #### Discussion Prompt 2: Challenges
 
 > **Question:** What are the biggest risks of AI adoption in your teaching context?
 
 Consider:
+
 - Safety implications in hands-on learning
 - Skills that might be lost
 - Dependency on technology
 - Cost and access issues
 
+**Your thoughts on AI challenges:**
+
     [[___]]
-    **Your thoughts on AI challenges:**
+
+
 
 #### Discussion Prompt 3: Implementation
 
 > **Question:** What would you need to successfully implement human-centered AI in your classroom?
 
 Think about:
+
 - Training and support
 - Infrastructure requirements
 - Policy guidelines
 - Student preparation
 
+**Your implementation considerations:**
+
     [[___]]
-    **Your implementation considerations:**
+
+
 
 ### Reflection Exercise
 
@@ -443,17 +509,23 @@ Think about:
 
 Based on what you've learned, complete this action plan:
 
-    [[___]]
-    **One AI principle I will prioritize:** (e.g., transparency, fairness, human agency)
+**One AI principle I will prioritize:** (e.g., transparency, fairness, human agency)
 
     [[___]]
-    **One change I will make to my teaching approach:**
+
+
+**One change I will make to my teaching approach:**
 
     [[___]]
-    **One area where I need more learning/support:**
+
+**One area where I need more learning/support:**
 
     [[___]]
-    **Next step I will take within the next month:**
+
+**Next step I will take within the next month:**
+
+    [[___]]
+
 
 ## Part 5: Synthesis and Next Steps
 
@@ -470,16 +542,19 @@ Based on what you've learned, complete this action plan:
 ### Moving Forward: Action Items
 
 **Immediate Steps (This Week):**
+
 - [ ] Identify one AI tool relevant to your teaching area
 - [ ] Research its privacy policy and ethical guidelines
 - [ ] Consider how it aligns with your learning objectives
 
 **Short-term Goals (Next Month):**
+
 - [ ] Connect with colleagues to discuss AI experiences
 - [ ] Attend a webinar or read articles about AI in education
 - [ ] Pilot test one AI tool with appropriate safeguards
 
 **Long-term Development (Next 6 Months):**
+
 - [ ] Develop evaluation criteria for AI tools in your context
 - [ ] Create guidelines for student AI use in your courses
 - [ ] Contribute to institutional AI policy discussions
@@ -487,22 +562,27 @@ Based on what you've learned, complete this action plan:
 ### Additional Resources
 
 **Further Learning:**
+
 - [UNESCO AI Competency Framework for Teachers](https://unesdoc.unesco.org/ark:/48223/pf0000391104)
 - [KI-Campus: AI in Education](https://ki-campus.org)
 - [UNESCO Ethics of AI Recommendation](https://www.unesco.org/en/artificial-intelligence/recommendation-ethics)
 
 **Tools to Explore:**
+
 - [Google's Teachable Machine](https://teachablemachine.withgoogle.com/) - No-code AI model creation
 - [Perplexity](https://www.perplexity.ai) - Research with source citations
 - [ChatGPT](https://chat.openai.com) - General AI assistant for lesson planning
 
 ### Final Reflection
 
-    [[___]]
-    **How has your perspective on AI in education changed through this workshop?**
+**How has your perspective on AI in education changed through this workshop?**
 
     [[___]]
-    **What questions do you still have about implementing human-centered AI?**
+
+**What questions do you still have about implementing human-centered AI?**
+
+    [[___]]
+
 
 ---
 
