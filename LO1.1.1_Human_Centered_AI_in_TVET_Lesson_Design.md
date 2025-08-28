@@ -589,3 +589,21 @@ Based on what you've learned, complete this action plan:
 **Thank you for participating in this workshop on Human-Centered AI in TVET Lesson Design!**
 
 *Remember: Your role as an educator is irreplaceable. Armed with knowledge and the right mindset, you can harness AI to enrich learning while safeguarding what matters most - your students' growth, rights, and futures.*
+
+## Next Steps in Your Learning Journey
+
+What would you like to focus on next?
+
+### 🎓 Go to next Competence
+[**Competence Ethics and AI Course**](https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/LO2.1.1_Ethics_AI_in_TVET_Lesson_Design.md)
+
+- Complete comprehensive course
+- In-depth learning modules
+- Structured progression
+
+### 🎯 Targeted Learning Objective  
+[**Human Centred AI - Learnon Objective**](YOUR_LEARNON_OBJECTIVE_URL)
+
+- Focused learning objective
+- Same competency area
+- Quick skill building
