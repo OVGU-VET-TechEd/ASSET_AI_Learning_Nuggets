@@ -8,6 +8,14 @@ comment: Presentation on AI & the Future of Work
 
 link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/refs/heads/main/ASSET_basic.css
 
+@@ This is a single-line comment
+
+@@@
+This is a block comment.
+It can span multiple lines.
+@@@
+
+
 @style
 .sector-card {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
@@ -184,7 +192,14 @@ By the end of this workshop, you will be able to:
 
 ## Part 1: Foundation - Understanding Human-Centered AI
 
+@@ This is a single-line comment
+
 ### What is Human-Centered AI?
+
+@@@
+This is a block comment.
+It can span multiple lines.
+@@@
 
 > **Human-centered AI** means always putting *people's needs, rights, and well-being first* when adopting AI technology.
 
