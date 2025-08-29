@@ -140,7 +140,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 # AI for Professional Development - Using AI to Enable Lifelong Professional Learning 
 
-** A virtual leanring module on AI for professional developmetn in TVET**
+** A virtual learning nugget on AI for professional developmetn in TVET**
 
 > **Learning Objective:** After completing this learning nugget, you will be able to **identify AI tools** (such as chatbots and recommendation systems) that support ongoing learning, and **explain how they can help you manage** your own professional development in TVET.
 
