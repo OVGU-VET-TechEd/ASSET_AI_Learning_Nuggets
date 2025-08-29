@@ -180,7 +180,9 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 ---
 
-# AI Development Process: Data, Algorithms, and Architecture
+# AI Foundations and Applications - Basic AI Techniques and Applications for Teachers 
+
+Nugget 7: Basic AI Techniques and Applications for Teacher
 
 **Understanding How AI Systems Are Built and Deployed in TVET Contexts**
 
@@ -191,9 +193,9 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 **Presenter:** Hannes Tegelbeckers  
 **Faculty of Human Sciences**
 
-## Workshop Overview
+## Nugget Overview
 
-By the end of this workshop, you will be able to:
+By the end of this nugget, you will be able to:
 
 * **Describe** how AI systems are developed using data, algorithms, and computing resources
 * **Identify** the key steps in the AI development life cycle from problem scoping to deployment
