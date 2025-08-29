@@ -104,7 +104,7 @@ It can span multiple lines.
 
   <!-- Faculty info -->
   <text x='400' y='250' font-family='Segoe UI, Arial, sans-serif' font-size='16' font-weight='bold' text-anchor='middle' fill='#3949AB'>
-    A collbaoration of the UNEVOC Network
+    A collaboration of the UNEVOC Network
   </text>
 
   <!-- University info -->
@@ -176,9 +176,12 @@ It can span multiple lines.
 
 > **Learning Objective (Acquire Level):** Develop a human-centered mindset and understand ethical, pedagogical, and AI concepts to make informed decisions on using AI in TVET teaching.
 
-**Professur für Ingenieurpädagogik und technische Bildung**  
+**Professur für Ingenieurpädagogik und technische Bildung** 
+
 **Lehrstuhl:** Prof. Dr. Frank Bünning  
+
 **Presenter:** Hannes Tegelbeckers  
+
 **Faculty of Human Sciences**
 
 ## Workshop Overview
