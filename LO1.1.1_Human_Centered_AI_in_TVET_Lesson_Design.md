@@ -172,7 +172,7 @@ It can span multiple lines.
 
 # Human-Centred Mindset- Human Agency in the Age of AI
 
-**A virtual training course on Ethical AI Integration in Technical and Vocational Education**
+**A virtual training nugget on Ethical AI Integration in Technical and Vocational Education**
 
 > **Learning Objective (Acquire Level):** Develop a human-centered mindset and understand ethical, pedagogical, and AI concepts to make informed decisions on using AI in TVET teaching.
 
@@ -186,7 +186,7 @@ It can span multiple lines.
 
 ## Workshop Overview
 
-By the end of this workshop, you will be able to:
+By the end of this nugget, you will be able to:
 
 * **Identify** human-centered AI principles and ethical guidelines relevant to TVET teaching
 * **Evaluate** if and how AI tools align with your lesson's pedagogical goals
