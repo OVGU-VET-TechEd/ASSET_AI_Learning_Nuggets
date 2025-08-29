@@ -140,17 +140,17 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 # AI for Professional Development - Using AI to Enable Lifelong Professional Learning 
 
-** A virtual learning nugget on AI for professional developmetn in TVET**
+** A virtual learning nugget on AI for professional development in TVET**
 
 > **Learning Objective:** After completing this learning nugget, you will be able to **identify AI tools** (such as chatbots and recommendation systems) that support ongoing learning, and **explain how they can help you manage** your own professional development in TVET.
 
 **Based on UNESCO AI Competency Framework - Level 1 (Acquire)**
 
-## Workshop Overview
+## Learning Nugget Overview
 
 In today's rapidly evolving technical and vocational education landscape, continuous professional development is essential. This workshop will help you discover how AI can become your personal learning assistant.
 
-**By the end of this session, you will be able to:**
+**By the end of this nugget, you will be able to:**
 
 * **Identify** different types of AI tools for professional development (recommendation engines, chatbots, learning platforms)
 * **Explain** how AI can support your ongoing learning needs as a TVET educator
