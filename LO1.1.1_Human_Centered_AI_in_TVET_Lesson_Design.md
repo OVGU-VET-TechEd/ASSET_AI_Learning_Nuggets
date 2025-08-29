@@ -8,7 +8,7 @@ comment: Presentation on AI & the Future of Work
 
 link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/refs/heads/main/ASSET_basic.css
 
-@@ This is a single-line comment
+@@ comment olga: 
 
 @@@
 This is a block comment.
