@@ -185,7 +185,7 @@ AI is increasingly finding its way into vocational classrooms. This learning nug
 
 @scenarioBox(Real-World Challenge, You are planning a module on smart lighting systems for electrical engineering trainees. You have access to an AI-assisted diagnostic tool that can predict lighting faults. **Should you integrate this AI tool?** If yes, which tool and why? If not, why not? Such decisions require balancing innovation with ethics and sound pedagogy.)
 
-### Learning Outcomes
+### Learning Nugget Overview
 
 By the end of this nugget, you will be able to:
 
