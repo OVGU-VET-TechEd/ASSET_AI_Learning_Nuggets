@@ -170,9 +170,9 @@ It can span multiple lines.
 
 ---
 
-# Human-Centered AI in TVET Lesson Design
+# Human-Centred Mindset- Human Agency in the Age of AI
 
-**A Workshop on Ethical AI Integration in Technical and Vocational Education**
+**A virtual training course on Ethical AI Integration in Technical and Vocational Education**
 
 > **Learning Objective (Acquire Level):** Develop a human-centered mindset and understand ethical, pedagogical, and AI concepts to make informed decisions on using AI in TVET teaching.
 
