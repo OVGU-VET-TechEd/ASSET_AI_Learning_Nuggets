@@ -193,7 +193,7 @@ A virtual training nugget on Basic AI Techniques and Applications for Teacher
 **Presenter:** Hannes Tegelbeckers  
 **Faculty of Human Sciences**
 
-## Nugget Overview
+## Learning Nugget Overview
 
 By the end of this nugget, you will be able to:
 
