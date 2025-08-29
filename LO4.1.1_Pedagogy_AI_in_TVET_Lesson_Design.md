@@ -173,9 +173,9 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 ---
 
-# Human-Centered AI in TVET Lesson Design
+# AI Pedagogy - Exploring AI-Assisted Teaching Approaches
 
-**Learning Objective 4.1.1 (Acquire Level)**
+**A virtual training nugget on AI Pedagogy on TVET**
 
 > Develop a human-centered mindset and understand ethical, pedagogical, and AI concepts to make informed decisions on using AI in teaching.
 
