@@ -182,7 +182,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 # AI Foundations and Applications - Basic AI Techniques and Applications for Teachers 
 
-Nugget 7: Basic AI Techniques and Applications for Teacher
+A virtual training nugget on Basic AI Techniques and Applications for Teacher
 
 **Understanding How AI Systems Are Built and Deployed in TVET Contexts**
 
