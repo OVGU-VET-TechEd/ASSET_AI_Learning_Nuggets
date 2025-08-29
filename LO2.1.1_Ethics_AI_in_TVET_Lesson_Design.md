@@ -167,9 +167,9 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 ---
 
-# Ethics of AI in TVET: Identifying Ethical Controversies
+# Ethics of AI - Grasping Ethical Principles of AI in Education
 
-**A Comprehensive Learning Module on AI Ethics in Technical and Vocational Education**
+**A virtual training nugget on AI Ethics in Technical and Vocational Education**
 
 > **Learning Objective (Acquire Level):** Identify and exemplify key ethical controversies in the use of AI tools in education through four critical lenses: Human Agency, Privacy, Security, and Linguistic & Cultural Relevance.
 
