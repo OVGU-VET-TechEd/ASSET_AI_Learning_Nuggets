@@ -184,7 +184,7 @@ It can span multiple lines.
 
 **Faculty of Human Sciences**
 
-## Nugget Overview
+## Learning Nugget Overview
 
 By the end of this nugget, you will be able to:
 
