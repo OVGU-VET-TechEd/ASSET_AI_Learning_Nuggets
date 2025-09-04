@@ -361,14 +361,18 @@ The Stanford Institute for Human-Centered Artificial Intelligence defines their 
 **Video Introduction:** Stanford HAI Launch
 
 > 🎥 **Watch:** [Stanford HAI Institute Introduction](https://hai.stanford.edu/about/introduction)
-> 
+@@link funktioniert nicht@@
+
 > **Key Takeaway:** "putting humanity at the center of AI" requires intentional design choices that prioritize human values over technological capability alone.
 
 @scenarioBox(Maria teaches automotive technology at a technical college. A new AI-powered diagnostic system claims to identify engine problems 95% faster than traditional methods. Should she integrate this tool into her curriculum? What questions should she ask first?)
-
+@@ das Szenario macht an dieser Stelle keinen Sinn. Muss eingeleitet werden oder verschoben oder gelöscht @@
 ---
 
 ## Module 2: Critical Evaluation Framework
+@@Module muss komplett überarbeitet werden@@
+
+@@@ bei Auswahlaufgaben (knowledge check 1) we need to indicate how many answers are correct. And after giving wrong asnwers iti is not providing the correct answers. @@@
 
 > **The ETHICS Framework for AI Tool Assessment**
 
@@ -432,7 +436,7 @@ Your colleague suggests using an AI writing assistant for student essays in tech
 ---
 
 ## Module 3: Benefits, Limitations & Risks Analysis
-
+@@ dieses Modul ist wenig verständlich in Hinblich auf den Nutzen für Lehrende @@
 > **Systematic Tool Assessment**
 
 ### Benefits Analysis Matrix
@@ -516,7 +520,7 @@ A vocational school is considering an AI system that analyzes student facial exp
 ---
 
 ## Module 4: Subject-Specific Evaluation
-
+@@@es fehlen Einleitungs und Kontext
 > **TVET Field Applications**
 
 ### Construction & Building Trades
