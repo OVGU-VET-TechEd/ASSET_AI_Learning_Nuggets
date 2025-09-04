@@ -220,28 +220,19 @@ Dear TVET Educator,
 
 Welcome to this essential learning journey on developing a human-centered mindset when evaluating AI tools for your educational context! This nugget will equip you with the critical thinking skills needed to make informed decisions about AI integration in vocational education.
 
+@@@
+Structure: Course - Module - Nugget
+We talk about the Course 
+
+Course:
+Module: Hoorziontal (Aspects such as Human Mindset, Ethics etc.)
+Nugget: Specific Learning objective (LO. #.#.#.)
+@@@
+
+
 > **Course Intention**
 
 This course empowers TVET teachers to critically assess AI tools through a human-centered lens, ensuring that any technology adoption serves learning goals while respecting student rights, privacy, and well-being. You'll develop frameworks for evaluating benefits, limitations, and risks specific to your subject area and local context.
-
-> **Funding & Partnership Acknowledgment**
-
-<div class="funding-acknowledgment">
-This course is made possible through the generous support of:
-
-• **UNESCO** - United Nations Educational, Scientific and Cultural Organization  
-• **UNEVOC International Centre** for Technical and Vocational Education and Training
-
-This project is part of the ASSET initiative, fostering international collaboration in AI-enhanced TVET education.
-</div>
-
-#### Commitment to Inclusivity
-
-<div class="inclusivity-notice">
-🌐 **Our Commitment:** This course is designed to be accessible and inclusive for all learners, regardless of background, location, or learning preferences. We provide multiple formats, language options, and accessibility features to ensure everyone can participate effectively.
-
-Special attention is given to diverse TVET contexts, varying resource levels, and different subject specializations.
-</div>
 
 #### Course Overview
 
@@ -256,20 +247,6 @@ Special attention is given to diverse TVET contexts, varying resource levels, an
 - **Collaborative (if applicable):** Share insights with peer educators
 - **Applied:** Test concepts with real AI tools in your subject area
 
-#### Why LiaScript?
-
-We chose LiaScript as our platform because:
-• Interactive learning with immediate feedback
-• Accessible across all devices and platforms
-• Open-source approach aligning with educational equity
-• Multimedia integration for diverse learning styles
-• Offline capability for varied connectivity contexts
-
-This enables us to provide you with an interactive, accessible, and engaging learning experience that works across all devices and platforms.
-
-</div>
-
----
 
 ## Nugget 1.1.1 Orientation
 
@@ -294,6 +271,42 @@ This enables us to provide you with an interactive, accessible, and engaging lea
 <div class="contact-info">
 📧 **Need Help?** Contact us at: asset-project@unesco.org
 </div>
+
+</div>
+
+
+> **Funding & Partnership Acknowledgment**
+
+<div class="funding-acknowledgment">
+This course is made possible through the generous support of:
+
+• **UNESCO** - United Nations Educational, Scientific and Cultural Organization  
+• **UNEVOC International Centre** for Technical and Vocational Education and Training
+
+This project is part of the ASSET initiative, fostering international collaboration in AI-enhanced TVET education.
+</div>
+
+#### Commitment to Inclusivity
+
+<div class="inclusivity-notice">
+🌐 **Our Commitment:** This course is designed to be accessible and inclusive for all learners, regardless of background, location, or learning preferences. We provide multiple formats, language options, and accessibility features to ensure everyone can participate effectively.
+
+Special attention is given to diverse TVET contexts, varying resource levels, and different subject specializations.
+</div>
+
+@@picture with people on inclusivitiy
+
+
+#### Why LiaScript?
+
+We chose LiaScript as our platform because:
+• Interactive learning with immediate feedback
+• Accessible across all devices and platforms
+• Open-source approach aligning with educational equity
+• Multimedia integration for diverse learning styles
+• Offline capability for varied connectivity contexts
+
+This enables us to provide you with an interactive, accessible, and engaging learning experience that works across all devices and platforms.
 
 </div>
 
