@@ -4,7 +4,7 @@ email: asset-project@unesco.org
 version: 1.0.0
 language: en
 narrator: US English Female
-comment: Self-Learning Nugget on Human-Centered AI Critical Reflection (LO 1.1.1) - Teachers develop critical thinking skills to evaluate AI tools in educational contexts
+comment: Self-Learning Nugget on Human-Centered AI Mindset - Human Agency (LO 1.1.1) - Teachers develop critical thinking skills to evaluate AI tools in educational contexts
 
 link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiative/refs/heads/main/ASSET_basic.css
 
@@ -154,7 +154,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 -->
 
-# Course 1.1.1: Human-Centered AI Critical Reflection
+# Course 1.1.1: Human-Centered AI Mindset - Human Agency
 
 <svg xmlns='http://www.w3.org/2000/svg' width='1100' height='400' viewBox='0 0 800 450'>
   <!-- Background -->
@@ -170,7 +170,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
   
   <!-- Subtitle -->
   <text x='400' y='170' font-family='Segoe UI, Arial, sans-serif' font-size='24' font-weight='bold' text-anchor='middle' fill='#666'>
-    Critical Reflection in TVET
+    Mindset - Human Agency in TVET
   </text>
   
   <!-- Learning Objective -->
@@ -218,7 +218,7 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 <div class="welcome-container">
 
-**Welcome to Human-Centered AI Critical Reflection**
+**Welcome to Human-Centered AI Mindset - Human Agency**
 
 Dear TVET Educator,
 
@@ -233,7 +233,6 @@ This course empowers TVET teachers to critically assess AI tools through a human
 <div class="funding-acknowledgment">
 This course is made possible through the generous support of:
 
-• **German Federal Ministry for Economic Cooperation and Development (BMZ)**
 • **UNESCO** - United Nations Educational, Scientific and Cultural Organization  
 • **UNEVOC International Centre** for Technical and Vocational Education and Training
 
@@ -304,7 +303,7 @@ This enables us to provide you with an interactive, accessible, and engaging lea
 
 ---
 
-# Human-Centered AI Critical Reflection
+# Human-Centered AI Mindset - Human Agency
 
 <div class="nugget-header">
 **Virtual Training Nugget 1.1.1:** Critical Evaluation of AI Tools in TVET
@@ -322,7 +321,7 @@ By the end of this nugget, you will be able to:
 
 1. **Identify** human-centered principles for evaluating AI tools in educational contexts
 2. **Analyze** the benefits, limitations, and risks of specific AI applications for your subject area  
-3. **Apply** critical reflection frameworks to assess AI tools' appropriateness for your local educational setting
+3. **Apply** Mindset - Human Agency frameworks to assess AI tools' appropriateness for your local educational setting
 4. **Justify** decisions about AI tool adoption based on pedagogical goals and student well-being
 5. **Recognize** when AI tools may diminish rather than enhance human agency in learning
 
@@ -885,7 +884,7 @@ Before moving to the next nugget, ensure you have:
 
 > **📚 All Course Nuggets**
 
-1. [LO 1.1.1: Human-Centered AI Critical Reflection](current) - ✅ **Current**
+1. [LO 1.1.1: Human-Centered AI Mindset - Human Agency](current) - ✅ **Current**
 2. [LO 1.1.2: AI as Human-Led Technology](coming-soon) - Coming Soon  
 3. [LO 1.1.3: AI Development Lifecycle Understanding](coming-soon) - Coming Soon
 4. [LO 1.1.4: Protecting Human Agency in AI Systems](coming-soon) - Coming Soon
