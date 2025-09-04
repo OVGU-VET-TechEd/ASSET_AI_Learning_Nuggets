@@ -216,10 +216,6 @@ link: https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_UNESCO_Coinitiativ
 
 ## Welcome Page
 
-<div class="welcome-container">
-
-**Welcome to Human-Centered AI Mindset - Human Agency**
-
 Dear TVET Educator,
 
 Welcome to this essential learning journey on developing a human-centered mindset when evaluating AI tools for your educational context! This nugget will equip you with the critical thinking skills needed to make informed decisions about AI integration in vocational education.
