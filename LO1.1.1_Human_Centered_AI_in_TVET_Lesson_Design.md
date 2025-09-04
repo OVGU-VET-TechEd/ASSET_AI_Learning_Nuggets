@@ -317,8 +317,9 @@ This enables us to provide you with an interactive, accessible, and engaging lea
 <div class="nugget-header">
 **Virtual Training Nugget 1.1.1:** Critical Evaluation of AI Tools in TVET
 <br>
-**Competency Level:** Acquire | **Duration:** 45-60 minutes
+**Competency Level:** Acquire | **Duration:** 15 minutes
 </div>
+@@ speaker button fehlt auf allen Seiten @@
 
 <div class="audio-control">
 🎵 **Audio Narration Available** - Click the speaker icon to listen to this content
