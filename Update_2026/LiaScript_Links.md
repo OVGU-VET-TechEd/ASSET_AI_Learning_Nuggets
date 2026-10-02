@@ -17,9 +17,5 @@ Pattern: `https://liascript.github.io/course/?` + raw file URL
 ## Plain URLs (copy & paste)
 
 ```text
-https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/Update_2026/ASSET_AI_2026_N1_AI_and_Me.md
-https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/Update_2026/ASSET_AI_2026_N2_How_AI_Works.md
-https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/Update_2026/ASSET_AI_2026_N3_AI_Tools_for_Teaching.md
-https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/Update_2026/ASSET_AI_2026_N4_Prompting.md
-https://liascript.github.io/course/?https://raw.githubusercontent.com/OVGU-VET-TechEd/ASSET_AI_Learning_Nuggets/refs/heads/main/Update_2026/ASSET_AI_2026_N5_Quality_and_Ethics.md
+3
 ```
