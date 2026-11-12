@@ -1,9 +1,10 @@
 <!--
 author:   Hannes Tegelbeckers · OVGU Magdeburg · ASSET project (UNESCO-UNEVOC Network)
 email:    hannes.tegelbeckers@ovgu.de
-version:  2026.1.0
+version:  2026.2.0
 language: en
 narrator: UK English Female
+mode:     Presentation
 license:  CC BY-SA 4.0
 comment:  ASSET AI starter course 2026, Nugget 2 of 5 (AI Basics): learning from data, bias, how chat assistants produce answers, five key terms. Acquire level.
 
@@ -123,7 +124,7 @@ comment:  ASSET AI starter course 2026, Nugget 2 of 5 (AI Basics): learning from
 
 # Nugget 2 · How AI Works
 
---{{0}}--
+    --{{0}}--
 Welcome to nugget two. We open the box and look at how AI works, without any mathematics.
 
 <div class="hero">
@@ -155,10 +156,10 @@ Welcome to nugget two. We open the box and look at how AI works, without any mat
 
 # ① Start: Two kinds of AI in Nuwan's workshop
 
-@steps(1)
-
---{{0}}--
+    --{{0}}--
 Our case today comes from an automotive workshop in Sri Lanka.
+
+@steps(1)
 
 <div class="persona">
 <div class="persona__avatar">🔧</div>
@@ -176,6 +177,12 @@ car manufacturer.
 </div>
 </div>
 
+    --{{1}}--
+Why do you think each system made its mistake? Write a first guess.
+
+      {{1}}
+****************************************
+
 <div class="box box--case">
 <div class="box__label">Your guess</div>
 
@@ -184,14 +191,18 @@ check it at the end.
 
 </div>
 
+**Write:** My first guess:
+
 [[___ ___]]
+
+****************************************
 
 # ② Understand: Learning from examples
 
-@steps(2)
-
---{{0}}--
+    --{{0}}--
 The central idea of today's AI is simple: it learns from examples instead of following written rules.
+
+@steps(2)
 
 Traditional software follows **rules** that a person wrote:
 *"If the pad thickness is below 3 mm, show a warning."*
@@ -209,10 +220,18 @@ Traditional software follows **rules** that a person wrote:
                                                   +-----------------+
 ```
 
+    --{{1}}--
+Three terms: training data, model and prediction.
+
+      {{1}}
 - **Training data** — the examples the system learns from.
 - **Model** — the learned pattern, stored as many numbers. After training it is fixed.
 - **Prediction** — the model's output for a new case, often with a probability.
 
+    --{{2}}--
+A model can only be as good as its examples.
+
+      {{2}}
 <div class="box">
 <div class="box__label">Key idea</div>
 
@@ -224,9 +243,10 @@ discs of one supplier. A new disc from another supplier has a different surface
 
 ## Data decides
 
---{{0}}--
+    --{{0}}--
 Because AI learns from data, problems in the data become problems in the AI.
 
+<!-- data-type="none" -->
 | If the data … | then the AI … | TVET example |
 | --- | --- | --- |
 | covers only some cases | fails on unfamiliar cases | a weld-inspection camera trained only on steel misjudges aluminium |
@@ -234,6 +254,10 @@ Because AI learns from data, problems in the data become problems in the AI.
 | is mostly in one language or culture | works worse for others | a speech tool understands standard English well but not local accents |
 | contains personal information | may reveal or misuse it | learner records uploaded to a public tool |
 
+    --{{1}}--
+Remember: the computer said so is not a reason.
+
+      {{1}}
 <div class="box box--warn">
 <div class="box__label">Remember</div>
 
@@ -244,7 +268,7 @@ does my situation fit that data?**
 
 ## From idea to working system
 
---{{0}}--
+    --{{0}}--
 Every AI system goes through a life cycle. People make decisions at every step.
 
 ```ascii
@@ -254,13 +278,17 @@ Every AI system goes through a life cycle. People make decisions at every step.
        +-------------------------------------------------------------------------------+
 ```
 
+    --{{1}}--
+Teachers are involved more often than they think.
+
+      {{1}}
 Teachers are involved more often than they think: when an institution **chooses**
 a system (step 1 and 4), when learners' data is **collected** (step 2), and when
 someone notices that the system gets things wrong in practice (step 6).
 
 ## How a chat assistant writes
 
---{{0}}--
+    --{{0}}--
 Chat assistants are built on so-called large language models. Here is what they actually do.
 
 A chat assistant is built on a **large language model (LLM)**. It was trained
@@ -275,10 +303,18 @@ on huge amounts of text with one simple task: **predict the next piece of text**
                     light   █                   2 %
 ```
 
+    --{{1}}--
+It picks a likely continuation, adds it, and repeats, piece by piece.
+
+      {{1}}
 It picks a likely continuation, adds it, and repeats — piece by piece — until
 the answer is complete. These pieces are called **tokens** (a word or part of a
 word).
 
+    --{{2}}--
+Three consequences follow from this.
+
+      {{2}}
 <div class="cards">
 <div class="card"><div class="card__title">Probable ≠ true</div>The model produces what <em>sounds</em> likely. Usually that is also correct — but the model cannot tell the difference.</div>
 <div class="card"><div class="card__title">No look-up</div>A plain model does not search a book or the internet. Some assistants add a search step; then check which sources were used.</div>
@@ -287,9 +323,10 @@ word).
 
 ## Five terms that prevent mistakes
 
---{{0}}--
+    --{{0}}--
 Five terms help you avoid the most common misunderstandings.
 
+<!-- data-type="none" -->
 | Term | What it means | The mistake it prevents |
 | --- | --- | --- |
 | **Token** | the piece of text a model works with; about ¾ of an English word, often more pieces for other languages | assuming all languages work equally well — many languages need more tokens and get weaker results |
@@ -298,6 +335,10 @@ Five terms help you avoid the most common misunderstandings.
 | **Hallucination** | fluent output that is not supported by any source | taking a well-written answer as a checked fact |
 | **Grounding** | giving the model the source text and asking it to use only that | expecting correct local rules the model never saw |
 
+    --{{1}}--
+Back to Nuwan: why did the chat assistant get the fault code wrong?
+
+      {{1}}
 <div class="box">
 <div class="box__label">Back to Nuwan</div>
 
@@ -309,7 +350,12 @@ would have helped.
 
 </div>
 
+    --{{2}}--
+If you like, read more about the memory feature of some assistants.
+
+      {{2}}
 <details>
+
 <summary><strong>Read more: "But the assistant remembered what I said last week!"</strong></summary>
 
 Some assistants have a *memory* feature. The model itself still does not change:
@@ -323,10 +369,10 @@ idea, because it is the basis of today's AI agents.
 
 # ③ Try: Three small experiments
 
-@steps(3)
-
---{{0}}--
+    --{{0}}--
 Three experiments of about three minutes each. Each one shows one of the terms from the table.
+
+@steps(3)
 
 <div class="box box--try">
 <div class="box__label">Experiment A · Same question, different answers</div>
@@ -337,6 +383,10 @@ Compare the answers.
 
 </div>
 
+    --{{1}}--
+Experiment B: ask for sources.
+
+      {{1}}
 <div class="box box--try">
 <div class="box__label">Experiment B · Ask for sources</div>
 
@@ -346,6 +396,10 @@ website, search engine).
 
 </div>
 
+    --{{2}}--
+Experiment C: grounding.
+
+      {{2}}
 <div class="box box--try">
 <div class="box__label">Experiment C · Grounding</div>
 
@@ -355,8 +409,13 @@ paragraph pasted in, adding: *"Answer only from the text above."* Compare.
 
 </div>
 
+    --{{3}}--
+No AI access? Here are typical results of the three experiments.
+
+      {{3}}
 <details>
-<summary><strong>No AI access? Typical results</strong></summary>
+
+<summary><strong>✅ No AI access? Typical results</strong></summary>
 
 - **A:** The three answers name different mistakes and use different wording.
   Useful for ideas — not reliable when you need the *same* result twice, for
@@ -369,72 +428,129 @@ paragraph pasted in, adding: *"Answer only from the text above."* Compare.
 
 </details>
 
-**Which experiment surprised you most?**
+    --{{4}}--
+Which experiment surprised you most?
+
+      {{4}}
+****************************************
+
+**Choose one:** Which experiment surprised you most?
 
 [(A)] A · different answers each time
 [(B)] B · invented or wrong sources
 [(C)] C · the effect of grounding
 [(D)] None — I expected all of it
 
+****************************************
+
 # ④ Check
+
+    --{{0}}--
+Five questions to check your understanding.
 
 @steps(4)
 
---{{0}}--
-Five questions to check your understanding.
+**1 · Choose one:** What does "training data" mean?
 
-**1. What does "training data" mean?**
-
-[( )] The rules a programmer writes for the AI
-[(X)] The examples an AI system learns its patterns from
-[( )] The data a teacher enters in a chat
-[( )] The test the AI has to pass before it is sold
-************************************************
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] The rules a programmer writes for the AI
+- [(X)] The examples an AI system learns its patterns from
+- [( )] The data a teacher enters in a chat
+- [( )] The test the AI has to pass before it is sold
+[[?]] The model is the learned pattern. What is it learned from?
+***
 Training data are the examples. The model is the pattern learned from them.
-************************************************
+***
 
-**2. A weld-inspection camera was trained only with pictures of steel welds. What is most likely to happen with aluminium welds?**
+    --{{1}}--
+Question two: a weld-inspection camera meets a new material.
 
-[( )] It works equally well, because a weld is a weld
-[(X)] It makes more mistakes, because aluminium welds were not in its training data
-[( )] It refuses to work
-************************************************
+      {{1}}
+****************************************
+
+**2 · Choose one:** A weld-inspection camera was trained only with pictures of steel welds. What is most likely to happen with aluminium welds?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] It works equally well, because a weld is a weld
+- [(X)] It makes more mistakes, because aluminium welds were not in its training data
+- [( )] It refuses to work
+[[?]] Remember Nuwan's brake tester and the disc from a new supplier.
+***
 AI systems are weakest where their situation differs from their training data.
-************************************************
+***
 
-**3. You corrected a chat assistant's wrong answer yesterday. Today, in a new chat, it makes the same mistake. Why?**
+****************************************
 
-[( )] The assistant is broken
-[(X)] The model is fixed after training; a correction in a chat does not change it
-[( )] Someone else changed the model overnight
-************************************************
+    --{{2}}--
+Question three: why does the assistant repeat a mistake you corrected?
+
+      {{2}}
+****************************************
+
+**3 · Choose one:** You corrected a chat assistant's wrong answer yesterday. Today, in a new chat, it makes the same mistake. Why?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] The assistant is broken
+- [(X)] The model is fixed after training; a correction in a chat does not change it
+- [( )] Someone else changed the model overnight
+[[?]] Look at the term "training vs. use" in the table of five terms.
+***
 Using a model does not train it. If you want a rule to be followed every time,
 you have to give it again — or store it as a standing instruction (see Nugget 4).
-************************************************
+***
 
-**4. Fill the gap:** Fluent AI output that is not supported by any source is called a [[hallucination]].
+****************************************
+
+    --{{3}}--
+Question four: fill the gap.
+
+      {{3}}
+****************************************
+
+**4 · Fill the gap:** Fluent AI output that is not supported by any source is called a …
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+[[hallucination]]
 [[?]] It begins with "h".
-************************************************
+<script>
+const given = `@input`.trim().toLowerCase()
+// ADAPT: add further accepted spellings
+const accepted = ["hallucination"]
+accepted.map(a => a.trim().toLowerCase()).includes(given)
+</script>
+***
 The model does not lie — it has no idea of truth. It produces probable text.
-************************************************
+***
 
-**5. Which measures reduce the risk of wrong answers? (choose all that apply)**
+****************************************
 
-[[X]] Giving the AI the relevant source text and asking it to use only that
-[[X]] Checking important facts against a reliable source
-[[ ]] Asking the AI whether it is sure
-[[X]] Asking an expert colleague
-************************************************
+    --{{4}}--
+Question five: which measures reduce the risk of wrong answers?
+
+      {{4}}
+****************************************
+
+**5 · Choose all that apply:** Which measures reduce the risk of wrong answers?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[X]] Giving the AI the relevant source text and asking it to use only that
+- [[X]] Checking important facts against a reliable source
+- [[ ]] Asking the AI whether it is sure
+- [[X]] Asking an expert colleague
+[[?]] Which of these checks are independent of the AI itself?
+***
 Asking the AI "Are you sure?" is not an independent check: models tend to agree
 with the user and may simply change their answer. Use sources and people.
-************************************************
+***
+
+****************************************
 
 # ⑤ Reflect and transfer
 
-@steps(5)
-
---{{0}}--
+    --{{0}}--
 How do you explain all this to your learners? Here is an activity that works without any technology.
+
+@steps(5)
 
 <div class="box box--class">
 <div class="box__label">In your classroom · "Be the model" (unplugged, 15 minutes)</div>
@@ -451,22 +567,30 @@ which is exactly how a language model works.
 
 </div>
 
+    --{{1}}--
+Now write in your learning journal.
+
+      {{1}}
+****************************************
+
 **Learning journal**
 
-Look at your guess from the start. What would you now say caused each of the two mistakes in Nuwan's workshop?
+**Reflect:** Look at your guess from the start. What would you now say caused each of the two mistakes in Nuwan's workshop?
 
 [[___ ___ ___]]
 
-Which one term from this nugget would you most like your learners to understand, and why?
+**Write:** Which one term from this nugget would you most like your learners to understand, and why?
 
 [[___ ___]]
 
+****************************************
+
 # ⑥ Look ahead
 
-@steps(6)
-
---{{0}}--
+    --{{0}}--
 Here is the summary of this nugget and a look at what comes next.
+
+@steps(6)
 
 <div class="takeaways">
 
@@ -480,6 +604,10 @@ Here is the summary of this nugget and a look at what comes next.
 
 </div>
 
+    --{{1}}--
+Next comes nugget three: AI tools for teaching.
+
+      {{1}}
 <div class="box box--ahead">
 <div class="box__label">Next: Nugget 3 · AI Tools for Teaching</div>
 
@@ -490,6 +618,9 @@ in administration — and where your data goes when you use them.
 </div>
 
 ## Sources and further reading
+
+    --{{0}}--
+Here are the sources of this nugget and suggestions for further reading.
 
 - UNESCO (2024). *AI competency framework for teachers*, aspect "AI foundations and applications".
   https://www.unesco.org/en/articles/ai-competency-framework-teachers

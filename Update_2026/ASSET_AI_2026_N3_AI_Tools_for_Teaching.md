@@ -1,9 +1,10 @@
 <!--
 author:   Hannes Tegelbeckers · OVGU Magdeburg · ASSET project (UNESCO-UNEVOC Network)
 email:    hannes.tegelbeckers@ovgu.de
-version:  2026.1.0
+version:  2026.2.0
 language: en
 narrator: UK English Female
+mode:     Presentation
 license:  CC BY-SA 4.0
 comment:  ASSET AI starter course 2026, Nugget 3 of 5 (Tools): tool families, four areas of use in TVET, data routes, a five-question tool check. Acquire level.
 
@@ -123,7 +124,7 @@ comment:  ASSET AI starter course 2026, Nugget 3 of 5 (Tools): tool families, fo
 
 # Nugget 3 · AI Tools for Teaching
 
---{{0}}--
+    --{{0}}--
 Welcome to nugget three. Today we look at AI tools for everyday teaching, and at how to choose them wisely.
 
 <div class="hero">
@@ -156,10 +157,10 @@ Welcome to nugget three. Today we look at AI tools for everyday teaching, and at
 
 # ① Start: Anjali has 40 minutes
 
-@steps(1)
-
---{{0}}--
+    --{{0}}--
 Our case today comes from a culinary arts training centre in Mauritius.
+
+@steps(1)
 
 <div class="persona">
 <div class="persona__avatar">🍲</div>
@@ -177,12 +178,20 @@ into those tools."*
 </div>
 </div>
 
+    --{{1}}--
+Which parts of Anjali's preparation would you give to an AI tool, and which not?
+
+      {{1}}
+****************************************
+
 <div class="box box--case">
 <div class="box__label">Your view</div>
 
 Which parts of Anjali's preparation would you give to an AI tool, and which not?
 
 </div>
+
+**Mark:** the parts you would give to an AI tool (several possible)
 
 [[draft]] Drafting a worksheet on safe cooling
 [[translate]] Translating the worksheet into French
@@ -191,8 +200,15 @@ Which parts of Anjali's preparation would you give to an AI tool, and which not?
 [[classlist]] Uploading the class list to create personalised tasks
 [[factcheck]] Checking that the temperatures and times are correct
 
+****************************************
+
+    --{{2}}--
+Here is a first hint.
+
+      {{2}}
 <details>
-<summary><strong>A first hint</strong></summary>
+
+<summary><strong>💡 A first hint</strong></summary>
 
 There is no single right answer — this is about your first judgement. By the end
 of the nugget you will have a checklist to decide. Two points in advance:
@@ -203,10 +219,10 @@ food-safety values is exactly the part that must stay with the expert.
 
 # ② Understand: Families of AI tools
 
-@steps(2)
-
---{{0}}--
+    --{{0}}--
 There are thousands of AI tools, but most of them belong to a few families.
+
+@steps(2)
 
 Tool names change every few months — the families stay. Learn the families,
 then look at the tools available in your institution.
@@ -220,6 +236,10 @@ then look at the tools available in your institution.
 <div class="card card--indigo"><div class="card__title">🔗 Built-in AI</div>AI features inside tools you already use: office software, learning platforms, search engines, phones.</div>
 </div>
 
+    --{{1}}--
+Good news for low-resource settings.
+
+      {{1}}
 <div class="box">
 <div class="box__label">Good news for low-resource settings</div>
 
@@ -231,9 +251,10 @@ well — you need clear goals and a good checking routine.
 
 ## Four areas of use in TVET
 
---{{0}}--
+    --{{0}}--
 Teachers use AI in four areas. The benefit and the risk are different in each.
 
+<!-- data-type="none" -->
 | Area | Useful for … | Watch out for … |
 | --- | --- | --- |
 | **Preparation** | first drafts of worksheets, examples, case stories, differentiated versions, translations, quiz ideas | factual errors in technical and safety content; generic content that ignores local standards |
@@ -241,6 +262,10 @@ Teachers use AI in four areas. The benefit and the risk are different in each.
 | **Assessment** | question banks, rubric drafts, feedback suggestions for the teacher to review | grades decided by AI; unreliable "AI detectors"; results that cannot be reproduced |
 | **Administration** | emails, schedules, meeting notes, reports | personal data of learners and colleagues in external tools |
 
+    --{{1}}--
+Two firm rules for beginners.
+
+      {{1}}
 <div class="box box--warn">
 <div class="box__label">Two firm rules for beginners</div>
 
@@ -252,7 +277,7 @@ Teachers use AI in four areas. The benefit and the risk are different in each.
 
 ## Where does my text go?
 
---{{0}}--
+    --{{0}}--
 When you type into an AI tool, your text is processed somewhere. Where exactly makes a big difference.
 
 ```ascii
@@ -269,13 +294,22 @@ When you type into an AI tool, your text is processed somewhere. Where exactly m
    with you            rules apply            of the provider apply
 ```
 
+    --{{1}}--
+Three routes: your device, your institution, or an external provider.
+
+      {{1}}
 - **Your device:** most private; needs a capable computer; results may be weaker.
 - **Your institution:** a tool licensed by your school or company, with a data
   protection agreement. Usually the best choice for work with learners.
 - **External provider:** convenient and powerful; read the terms. Free versions
   may use your input to improve their products.
 
+    --{{2}}--
+If you like, read more about rules and laws.
+
+      {{2}}
 <details>
+
 <summary><strong>Read more: rules and laws</strong></summary>
 
 Data protection law applies everywhere personal data is processed — for
@@ -291,7 +325,7 @@ and your institution's AI policy. Nugget 5 returns to these questions.
 
 ## Who does the thinking?
 
---{{0}}--
+    --{{0}}--
 The most important pedagogical question about any AI use is: who does the thinking?
 
 Learning in a trade needs **practice**: making the diagnosis, planning the steps,
@@ -299,11 +333,19 @@ writing the justification. When AI does these parts, learners hand in finished
 work **without having learned** the skill — and it shows later, at the machine or
 in the exam.
 
+    --{{1}}--
+Compare: AI that replaces thinking, and AI that supports it.
+
+      {{1}}
 <div class="cards">
 <div class="card card--red"><div class="card__title">AI replaces thinking</div>"Write my report on the pump repair." <br>"Solve this calculation." <br>"Tell me what the fault is."</div>
 <div class="card card--green"><div class="card__title">AI supports thinking</div>"Ask me questions that help me find the fault myself." <br>"Check my calculation steps and tell me where the first error is — but not the answer." <br>"Play a customer who complains about the repair."</div>
 </div>
 
+    --{{2}}--
+The design decides.
+
+      {{2}}
 A study of an AI tutor in physics found **higher learning gains** than in active
 classroom learning — but the tutor was *designed* to guide students through their
 own steps, with checked solutions in the background (Kestin et al., 2025).
@@ -311,7 +353,7 @@ Unguided chatbot use tends to have the opposite effect. **The design decides.**
 
 ## The five-question tool check
 
---{{0}}--
+    --{{0}}--
 Before you use a tool with learners, ask five questions. This takes two minutes.
 
 <div class="cards">
@@ -322,15 +364,19 @@ Before you use a tool with learners, ask five questions. This takes two minutes.
 <div class="card card--teal"><div class="card__title">5 · Learning</div>Who does the thinking — the learner or the tool?</div>
 </div>
 
+    --{{1}}--
+If you cannot answer one of the questions, do not use the tool with learners yet.
+
+      {{1}}
 If you cannot answer one of the questions, **do not use the tool with learners
 yet** — try it for your own preparation first, or ask your institution.
 
 # ③ Try: Prepare Anjali's lesson
 
-@steps(3)
-
---{{0}}--
+    --{{0}}--
 Now help Anjali. The task takes about ten minutes.
+
+@steps(3)
 
 <div class="box box--try">
 <div class="box__label">Task · 10 minutes</div>
@@ -345,8 +391,13 @@ Now help Anjali. The task takes about ten minutes.
 
 </div>
 
+    --{{1}}--
+No AI access? Here is an example worksheet extract.
+
+      {{1}}
 <details>
-<summary><strong>No AI access? Example worksheet extract</strong></summary>
+
+<summary><strong>✅ No AI access? Example worksheet extract</strong></summary>
 
 > **Safe cooling of cooked food**
 > Bacteria grow fastest between 5 °C and 60 °C (the "danger zone").
@@ -363,7 +414,13 @@ Anjali's learners will be assessed on. These values must be checked against the
 
 </details>
 
-**My five-question check for the tool I used:**
+    --{{2}}--
+Now run the five-question check for the tool you used.
+
+      {{2}}
+****************************************
+
+**Write:** My five-question check for the tool I used:
 
 1 · Purpose — what did it help me with?
 
@@ -385,65 +442,109 @@ Anjali's learners will be assessed on. These values must be checked against the
 
 [[___]]
 
+****************************************
+
 # ④ Check
+
+    --{{0}}--
+Five questions. Read the explanation after each one.
 
 @steps(4)
 
---{{0}}--
-Five questions. Read the explanation after each one.
+**1 · Choose one:** Anjali wants to create personalised exercises. Which approach respects learners' data?
 
-**1. Anjali wants to create personalised exercises. Which approach respects learners' data?**
-
-[( )] Upload the class list with names and grades to a free chat assistant
-[(X)] Describe the group in general terms ("three learners need simpler language") without names
-[( )] Paste each learner's last test into a public tool
-************************************************
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Upload the class list with names and grades to a free chat assistant
+- [(X)] Describe the group in general terms ("three learners need simpler language") without names
+- [( )] Paste each learner's last test into a public tool
+[[?]] Can you describe what the group needs without naming anyone?
+***
 You can get differentiated material without any personal data. Describe needs,
 not people.
-************************************************
+***
 
-**2. Match the area of use.** Which area does each activity belong to?
+    --{{1}}--
+Question two: match each activity to its area of use.
 
+      {{1}}
+****************************************
+
+**2 · Match the area of use:** Which area does each activity belong to?
+
+<!-- data-hint-button="1" data-solution-button="2" data-show-partial-solution -->
 [(Preparation) (In class) (Assessment) (Administration)]
 [ (X) ( ) ( ) ( ) ] Drafting a differentiated worksheet
 [ ( ) (X) ( ) ( ) ] Learners practise a customer conversation with an AI role-play
 [ ( ) ( ) (X) ( ) ] Generating a question bank for a written test
 [ ( ) ( ) ( ) (X) ] Summarising the minutes of a team meeting
+[[?]] Ask for each activity: is it done before class, with learners, for grading, or for organisation?
 
-**3. Which prompt supports the learner's own thinking?**
+****************************************
 
-[( )] "Write the repair report for this pump."
-[(X)] "Ask me three questions that help me find the cause of the fault myself."
-[( )] "Give me the correct answer to question 4."
-************************************************
+    --{{2}}--
+Question three: which prompt supports the learner's own thinking?
+
+      {{2}}
+****************************************
+
+**3 · Choose one:** Which prompt supports the learner's own thinking?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] "Write the repair report for this pump."
+- [(X)] "Ask me three questions that help me find the cause of the fault myself."
+- [( )] "Give me the correct answer to question 4."
+[[?]] Which prompt asks the learner something instead of giving an answer?
+***
 Tools that *ask* rather than *answer* keep the effortful part with the learner.
-************************************************
+***
 
-**4. Which statements about where text is processed are correct? (choose all that apply)**
+****************************************
 
-[[X]] A local model on your own device keeps the text on that device
-[[X]] A tool approved by your institution usually comes with a data protection agreement
-[[ ]] Free public tools never store or use what you type
-[[X]] Terms of use of external providers decide what happens with your input
-************************************************
+    --{{3}}--
+Question four: where is your text processed?
+
+      {{3}}
+****************************************
+
+**4 · Choose all that apply:** Which statements about where text is processed are correct?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[X]] A local model on your own device keeps the text on that device
+- [[X]] A tool approved by your institution usually comes with a data protection agreement
+- [[ ]] Free public tools never store or use what you type
+- [[X]] Terms of use of external providers decide what happens with your input
+[[?]] Think of the three routes: your device, your institution, an external provider.
+***
 Always check the terms. Free versions often allow the provider to use inputs.
-************************************************
+***
 
-**5. According to the five-question check, what should you do if you cannot answer one of the questions?**
+****************************************
 
-[( )] Use the tool anyway, but carefully
-[(X)] Not use it with learners yet: try it yourself first or ask your institution
-[( )] Ask the AI tool to answer the question
-************************************************
+    --{{4}}--
+Question five: what if you cannot answer one of the five questions?
+
+      {{4}}
+****************************************
+
+**5 · Choose one:** According to the five-question check, what should you do if you cannot answer one of the questions?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Use the tool anyway, but carefully
+- [(X)] Not use it with learners yet: try it yourself first or ask your institution
+- [( )] Ask the AI tool to answer the question
+[[?]] Read the sentence below the five cards of the tool check again.
+***
 The check is a stop sign, not a formality.
-************************************************
+***
+
+****************************************
 
 # ⑤ Reflect and transfer
 
-@steps(5)
-
---{{0}}--
+    --{{0}}--
 Let us bring the ideas back to your own teaching.
+
+@steps(5)
 
 <div class="box box--class">
 <div class="box__label">In your classroom · "Tool detectives" (20 minutes)</div>
@@ -455,22 +556,30 @@ they will need at work — and you learn which tools they already use.
 
 </div>
 
+    --{{1}}--
+Now write in your learning journal.
+
+      {{1}}
+****************************************
+
 **Learning journal**
 
-Anjali's colleague said: *"Just let the AI do it."* The other said: *"Never put anything into those tools."* Write your own position in two or three sentences.
+**Reflect:** Anjali's colleague said: *"Just let the AI do it."* The other said: *"Never put anything into those tools."* Write your own position in two or three sentences.
 
 [[___ ___ ___]]
 
-One task in my next teaching week where an AI tool could **support** my learners' thinking:
+**Write:** One task in my next teaching week where an AI tool could **support** my learners' thinking:
 
 [[___ ___]]
 
+****************************************
+
 # ⑥ Look ahead
 
-@steps(6)
-
---{{0}}--
+    --{{0}}--
 Here is the summary of this nugget and a look at what comes next.
+
+@steps(6)
 
 <div class="takeaways">
 
@@ -485,6 +594,10 @@ Here is the summary of this nugget and a look at what comes next.
 
 </div>
 
+    --{{1}}--
+Next comes nugget four: prompting.
+
+      {{1}}
 <div class="box box--ahead">
 <div class="box__label">Next: Nugget 4 · Prompting</div>
 
@@ -496,6 +609,9 @@ into AI agents.
 </div>
 
 ## Sources and further reading
+
+    --{{0}}--
+Here are the sources of this nugget and suggestions for further reading.
 
 - Kestin, G., Miller, K., Klales, A., Milbourne, T., & Ponti, G. (2025). AI tutoring
   outperforms in-class active learning: an RCT introducing a novel research-based

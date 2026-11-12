@@ -1,9 +1,10 @@
 <!--
 author:   Hannes Tegelbeckers · OVGU Magdeburg · ASSET project (UNESCO-UNEVOC Network)
 email:    hannes.tegelbeckers@ovgu.de
-version:  2026.1.0
+version:  2026.2.0
 language: en
 narrator: UK English Female
+mode:     Presentation
 license:  CC BY-SA 4.0
 comment:  ASSET AI starter course 2026, Nugget 1 of 5 (Orientation): what AI is, a human-centred mindset, and the UNESCO AI Competency Framework for Teachers. Acquire level.
 
@@ -123,7 +124,7 @@ comment:  ASSET AI starter course 2026, Nugget 1 of 5 (Orientation): what AI is,
 
 # Nugget 1 · AI and Me
 
---{{0}}--
+    --{{0}}--
 Welcome to the first nugget of the ASSET starter course on artificial intelligence
 in technical and vocational education and training. In about twenty-five minutes
 you will find your own starting point.
@@ -155,12 +156,13 @@ you will find your own starting point.
 
 ## How this course works
 
---{{0}}--
-Every nugget follows the same six steps, so you always know where you are.
+    --{{0}}--
+The starter course has five nuggets. Each one takes 25 to 35 minutes and can be done on its own, on a phone, and offline.
 
 The starter course has **five nuggets**. Each one takes 25–35 minutes and can be
 done on its own, on a phone, and offline.
 
+<!-- data-type="none" -->
 | Nugget | Topic | Key question |
 | --- | --- | --- |
 | **1 · AI and Me** | orientation, human-centred mindset | *What does AI mean for me as a teacher?* |
@@ -168,6 +170,12 @@ done on its own, on a phone, and offline.
 | 3 · AI Tools for Teaching | tools, data routes, tool choice | *Which tool, for what, and at what price?* |
 | 4 · Prompting | talking to AI with purpose; outlook to agents | *How do I get useful results?* |
 | 5 · Quality and Ethics | checking, protecting, deciding | *How do I use AI responsibly?* |
+
+    --{{1}}--
+Every nugget follows the same six steps, so you always know where you are.
+
+      {{1}}
+****************************************
 
 Every nugget follows the same **six steps**:
 
@@ -182,6 +190,12 @@ Every nugget follows the same **six steps**:
 <div class="card card--indigo"><div class="card__title">⑥ Look ahead</div>Summary, and where the topic goes next.</div>
 </div>
 
+****************************************
+
+    --{{2}}--
+This course is built so that you experience the methods you can later use with your own learners.
+
+      {{2}}
 <div class="box box--class">
 <div class="box__label">Two levels at once</div>
 
@@ -191,16 +205,20 @@ reflection. Look out for the boxes marked **In your classroom**.
 
 </div>
 
+    --{{3}}--
+Some practical tips before you start.
+
+      {{3}}
 **Tips:** Click the 🔊 speaker symbol to listen to a slide. Use the **Textbook**
 view (the glasses symbol at the top) if you prefer to read. Your answers in the
 text fields are saved in your own browser only.
 
 # ① Start: Jonas and the perfect reports
 
-@steps(1)
-
---{{0}}--
+    --{{0}}--
 We start with a situation that many trainers know.
+
+@steps(1)
 
 <div class="persona">
 <div class="persona__avatar">⚡</div>
@@ -218,6 +236,12 @@ current device (RCD) was placed where it is.
 </div>
 </div>
 
+    --{{1}}--
+What would you do in Jonas's place? There is no right or wrong answer here.
+
+      {{1}}
+****************************************
+
 <div class="box box--case">
 <div class="box__label">Your first thoughts</div>
 
@@ -225,31 +249,41 @@ What would you do in Jonas's place? There is no right or wrong answer here.
 
 </div>
 
+**Choose one:**
+
 [(1)] Ban AI tools for all written work.
 [(2)] Ignore it: the report is fine.
 [(3)] Talk to the apprentice and find out how the report was made.
 [(4)] Change the task so that the thinking has to happen visibly.
 [(5)] I am not sure yet.
 
---{{1}}--
+****************************************
+
+    --{{2}}--
 Keep your choice in mind. We will come back to Jonas at the end of this nugget.
 
-{{1}}
+      {{2}}
 > We will come back to Jonas at the end of this nugget. Keep your choice in mind.
 
 ## Where do you stand today?
 
---{{0}}--
+    --{{0}}--
 A short self-check helps you see your starting point. Nobody else sees your answers.
 
-**How often do you use AI tools such as chat assistants, translation or image tools?**
+**Choose one:** How often do you use AI tools such as chat assistants, translation or image tools?
 
 [(1)] Never, or I am not sure
 [(2)] Sometimes, for private things
 [(3)] Sometimes, for work
 [(4)] Regularly, for teaching
 
-**How do you feel about AI in vocational education right now?** (choose all that fit)
+    --{{1}}--
+How do you feel about AI in vocational education right now?
+
+      {{1}}
+****************************************
+
+**Choose all that fit:** How do you feel about AI in vocational education right now?
 
 [[curious]] Curious
 [[worried]] Worried
@@ -258,16 +292,26 @@ A short self-check helps you see your starting point. Nobody else sees your answ
 [[sceptical]] Sceptical
 [[indifferent]] Indifferent
 
-**One question about AI I would really like answered in this course:**
+****************************************
+
+    --{{2}}--
+And one question about AI you would really like answered in this course.
+
+      {{2}}
+****************************************
+
+**Write:** One question about AI I would really like answered in this course:
 
 [[___ ___]]
 
+****************************************
+
 # ② Understand: What is AI?
 
-@steps(2)
-
---{{0}}--
+    --{{0}}--
 Let us clarify what we mean when we say artificial intelligence.
+
+@steps(2)
 
 <div class="box">
 <div class="box__label">A working definition</div>
@@ -279,6 +323,12 @@ down step by step by a programmer, but **learned from large amounts of data**.
 
 </div>
 
+    --{{1}}--
+Three points matter for teachers.
+
+      {{1}}
+****************************************
+
 Three points matter for teachers:
 
 1. **AI is not one thing.** A navigation app, a spam filter, a machine that
@@ -289,9 +339,11 @@ Three points matter for teachers:
 3. **AI is made by people.** People choose the data, the purpose, and how it is
    used. That means people are responsible — including you, when you use it.
 
+****************************************
+
 ## AI is already in your trade
 
---{{0}}--
+    --{{0}}--
 Many learners will meet AI at work long before they meet it at school.
 
 <div class="cards">
@@ -303,6 +355,10 @@ Many learners will meet AI at work long before they meet it at school.
 <div class="card card--indigo"><div class="card__title">🗂 Office and admin</div>Assistants draft letters, summarise meetings and sort emails.</div>
 </div>
 
+    --{{1}}--
+Since the end of 2022, generative AI has been available to everyone with a phone. It is the focus of this course.
+
+      {{1}}
 Since the end of 2022, **generative AI** — systems that *produce* text, images,
 audio or code on request — has been available to everyone with a phone. This is
 why AI suddenly became a topic in every classroom, and it is the focus of this
@@ -310,7 +366,7 @@ course.
 
 ## A human-centred mindset
 
---{{0}}--
+    --{{0}}--
 UNESCO asks teachers to take a human-centred view of AI. Here is what that means in practice.
 
 UNESCO describes a **human-centred mindset** as the starting point for all work
@@ -323,6 +379,10 @@ with AI in education. In plain words:
 <div class="card card--teal"><div class="card__title">Skills are kept</div>AI should support professional skills, not quietly replace the practice learners need.</div>
 </div>
 
+    --{{1}}--
+The key idea is human agency: people remain in control.
+
+      {{1}}
 <div class="box">
 <div class="box__label">Key idea</div>
 
@@ -335,7 +395,7 @@ but knows how the job is done and checks the result.
 
 ## Where you are: the UNESCO framework
 
---{{0}}--
+    --{{0}}--
 This course is based on the UNESCO AI Competency Framework for Teachers, published in 2024.
 
 The **UNESCO AI Competency Framework for Teachers** (2024) describes
@@ -352,16 +412,20 @@ five aspects.
 <div class="fw__row">5 · AI for professional development</div><div class="fw__here">Nuggets 1 · 5</div><div>…</div><div>…</div>
 </div>
 
+    --{{1}}--
+After the starter course, the ASSET learning objectives go deeper into each aspect.
+
+      {{1}}
 The assignment of nuggets to aspects is this course's own; the aspect and level
 names are UNESCO's. After the starter course, the ASSET learning objectives
 LO 1.1.1 to LO 5.1.1 go deeper into each aspect.
 
 # ③ Try: Ask an AI about your trade
 
-@steps(3)
-
---{{0}}--
+    --{{0}}--
 Now it is your turn. This task takes about five minutes.
+
+@steps(3)
 
 <div class="box box--try">
 <div class="box__label">Task · 5 minutes</div>
@@ -378,7 +442,8 @@ Now it is your turn. This task takes about five minutes.
 </div>
 
 <details>
-<summary><strong>Example answer (for "electrical installation")</strong></summary>
+
+<summary><strong>✅ Example answer (for "electrical installation")</strong></summary>
 
 > 1. **Always switch off and isolate the power** before working on a circuit, and
 >    make sure it cannot be switched on again.
@@ -394,7 +459,13 @@ confident and partly incomplete** — typical for generative AI.
 
 </details>
 
-**What did you notice?** (choose all that apply)
+    --{{1}}--
+What did you notice? Choose all that apply.
+
+      {{1}}
+****************************************
+
+**Mark:** What did you notice? (choose all that apply)
 
 [[correct]] Most of it was correct
 [[missing]] Something important was missing
@@ -402,58 +473,99 @@ confident and partly incomplete** — typical for generative AI.
 [[general]] It was very general, not specific to my country or workplace
 [[confident]] It sounded more confident than it should
 
+****************************************
+
 # ④ Check
+
+    --{{0}}--
+Four short questions. Read the explanation after each one.
 
 @steps(4)
 
---{{0}}--
-Four short questions. Read the explanation after each one.
+**1 · Choose one:** Which statement fits a human-centred approach to AI in TVET?
 
-**1. Which statement fits a human-centred approach to AI in TVET?**
-
-[( )] If an AI grades faster than a teacher, it should grade on its own.
-[(X)] AI may suggest, but decisions about learners stay with people who can explain them.
-[( )] Teachers should avoid AI until it makes no more mistakes.
-[( )] Learners should decide alone whether AI is used in assessment.
-************************************************
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] If an AI grades faster than a teacher, it should grade on its own.
+- [(X)] AI may suggest, but decisions about learners stay with people who can explain them.
+- [( )] Teachers should avoid AI until it makes no more mistakes.
+- [( )] Learners should decide alone whether AI is used in assessment.
+[[?]] Who should remain responsible for grades, admission and safety?
+***
 Human agency does not mean rejecting AI. It means that responsibility and final
 decisions remain with people — especially for grades, admission and safety.
-************************************************
+***
 
-**2. Which of these are examples of AI? (choose all that apply)**
+    --{{1}}--
+Question two: which of these are examples of AI?
 
-[[X]] A camera system that detects faulty welds
-[[X]] A chat assistant that drafts a lesson plan
-[[ ]] A spreadsheet that adds up hours with a fixed formula
-[[X]] A translation app
-************************************************
+      {{1}}
+****************************************
+
+**2 · Choose all that apply:** Which of these are examples of AI?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[X]] A camera system that detects faulty welds
+- [[X]] A chat assistant that drafts a lesson plan
+- [[ ]] A spreadsheet that adds up hours with a fixed formula
+- [[X]] A translation app
+[[?]] Ask for each one: was the output learned from data, or does it follow a rule a person wrote down?
+***
 The spreadsheet follows a rule a person wrote down. The other three produce
 their outputs from patterns learned from data.
-************************************************
+***
 
-**3. Complete the sentence:** The UNESCO AI Competency Framework for Teachers has three levels: Acquire, Deepen and [[Create]].
+****************************************
+
+    --{{2}}--
+Question three: complete the sentence.
+
+      {{2}}
+****************************************
+
+**3 · Complete the sentence:** The UNESCO AI Competency Framework for Teachers has three levels: Acquire, Deepen and …
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+[[Create]]
 [[?]] It begins with the letter C.
-************************************************
+<script>
+const given = `@input`.trim().toLowerCase()
+// ADAPT: add further accepted spellings
+const accepted = ["Create"]
+accepted.map(a => a.trim().toLowerCase()).includes(given)
+</script>
+***
 Acquire → Deepen → Create. This starter course works on the *Acquire* level.
-************************************************
+***
 
-**4. True or false?**
+****************************************
 
+    --{{3}}--
+Question four: true or false?
+
+      {{3}}
+****************************************
+
+**4 · Decide:** True or false?
+
+<!-- data-hint-button="1" data-solution-button="2" data-show-partial-solution -->
 [(true) (false)]
 [ ( )  (X) ] Generative AI checks its answers against reliable sources before replying.
 [ (X)  ( ) ] AI answers can be fluent and confident and still incomplete.
 [ (X)  ( ) ] People choose the data, the purpose and the use of an AI system.
-************************************************
+[[?]] Think of the example answer in the Try step: fluent and confident, but was it complete?
+***
 Generative AI produces probable text, not checked facts. That is why your
 expertise is needed. Nugget 2 explains why.
-************************************************
+***
+
+****************************************
 
 # ⑤ Reflect: Back to Jonas
 
-@steps(5)
-
---{{0}}--
+    --{{0}}--
 Let us return to Jonas and connect the case to your own teaching.
+
+@steps(5)
 
 Jonas decided not to ban AI but to **make the thinking visible**. The written
 report stays, and each apprentice now explains two decisions from the report in a
@@ -461,6 +573,10 @@ five-minute talk at the switchboard. Jonas also discussed with the group when AI
 help is fine (for language, structure) and when it is not (for the technical
 reasoning that is being assessed).
 
+    --{{1}}--
+What does this mean for your own classroom?
+
+      {{1}}
 <div class="box box--class">
 <div class="box__label">In your classroom</div>
 
@@ -471,22 +587,30 @@ reasoning that is being assessed).
 
 </div>
 
+    --{{2}}--
+Now write in your learning journal. Your notes are saved in your browser only.
+
+      {{2}}
+****************************************
+
 **Learning journal** — your notes are saved in your browser only.
 
-Compare your choice at the start with Jonas's decision. Would you now decide differently? Why?
+**Reflect:** Compare your choice at the start with Jonas's decision. Would you now decide differently? Why?
 
 [[___ ___ ___]]
 
-**My goal for this starter course** (for example: "I want to use AI to prepare differentiated worksheets and know how to check them."):
+**Write:** My goal for this starter course (for example: "I want to use AI to prepare differentiated worksheets and know how to check them."):
 
 [[___ ___]]
 
+****************************************
+
 # ⑥ Look ahead
 
-@steps(6)
-
---{{0}}--
+    --{{0}}--
 Here is the summary of this nugget and a look at what comes next.
+
+@steps(6)
 
 <div class="takeaways">
 
@@ -499,6 +623,10 @@ Here is the summary of this nugget and a look at what comes next.
 
 </div>
 
+    --{{1}}--
+Next comes nugget two: how AI works.
+
+      {{1}}
 <div class="box box--ahead">
 <div class="box__label">Next: Nugget 2 · How AI Works</div>
 
@@ -509,6 +637,9 @@ its answers — without mathematics.
 </div>
 
 ## Sources and further reading
+
+    --{{0}}--
+Here are the sources of this nugget and suggestions for further reading.
 
 - UNESCO (2024). *AI competency framework for teachers.* Paris: UNESCO.
   https://www.unesco.org/en/articles/ai-competency-framework-teachers

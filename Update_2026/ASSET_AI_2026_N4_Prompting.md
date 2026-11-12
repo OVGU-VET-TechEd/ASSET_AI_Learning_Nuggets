@@ -1,9 +1,10 @@
 <!--
 author:   Hannes Tegelbeckers · OVGU Magdeburg · ASSET project (UNESCO-UNEVOC Network)
 email:    hannes.tegelbeckers@ovgu.de
-version:  2026.1.0
+version:  2026.2.0
 language: en
 narrator: UK English Female
+mode:     Presentation
 license:  CC BY-SA 4.0
 comment:  ASSET AI starter course 2026, Nugget 4 of 5 (Prompting): the T-R-A-C-E building blocks, improving and grounding prompts, and an outlook from prompts to AI agents. Acquire level.
 
@@ -123,7 +124,7 @@ comment:  ASSET AI starter course 2026, Nugget 4 of 5 (Prompting): the T-R-A-C-E
 
 # Nugget 4 · Prompting
 
---{{0}}--
+    --{{0}}--
 Welcome to nugget four. Today you learn to talk to AI with purpose, and you get a look at where prompting is heading: towards AI agents.
 
 <div class="hero">
@@ -156,10 +157,10 @@ Welcome to nugget four. Today you learn to talk to AI with purpose, and you get 
 
 # ① Start: "Make a quiz about brakes"
 
-@steps(1)
-
---{{0}}--
+    --{{0}}--
 We return to Nuwan's automotive workshop.
+
+@steps(1)
 
 <div class="persona">
 <div class="persona__avatar">🔧</div>
@@ -175,6 +176,12 @@ are no answers. Nuwan thinks: *"AI is useless for my teaching."*
 </div>
 </div>
 
+    --{{1}}--
+The AI did exactly what it was asked. What information was missing in Nuwan's request?
+
+      {{1}}
+****************************************
+
 <div class="box box--case">
 <div class="box__label">Your diagnosis</div>
 
@@ -183,14 +190,18 @@ request? Write down as many points as you can find.
 
 </div>
 
+**Write:** What was missing in Nuwan's request?
+
 [[___ ___ ___]]
+
+****************************************
 
 # ② Understand: Five building blocks
 
-@steps(2)
-
---{{0}}--
+    --{{0}}--
 A good prompt is like a good work order: it says what, for whom, under which conditions, and what the result should look like.
+
+@steps(2)
 
 Think of a prompt as a **work order** for a very fast, very well-read
 assistant who knows nothing about your learners, your workshop or your country.
@@ -204,13 +215,17 @@ Five building blocks, easy to remember as **T·R·A·C·E**:
 <div class="card card--teal"><div class="card__title">E · Example and format</div>How should the result look? Table, list, number of items — ideally with a short example.</div>
 </div>
 
+    --{{1}}--
+You do not need all five every time. But the more blocks you use, the less the AI has to guess.
+
+      {{1}}
 You do not need all five every time. For important tasks, the more blocks you
 use, the less the AI has to **guess** — and guessing is where generic or wrong
 results come from.
 
 ## Before and after
 
---{{0}}--
+    --{{0}}--
 Here is Nuwan's prompt, rebuilt with the five building blocks.
 
 **Before**
@@ -218,6 +233,12 @@ Here is Nuwan's prompt, rebuilt with the five building blocks.
 ```text
 Make a quiz about brakes.
 ```
+
+    --{{1}}--
+After: the same request with task, role, audience, constraints, and example and format.
+
+      {{1}}
+****************************************
 
 **After**
 
@@ -239,9 +260,11 @@ FORMAT       explaining why each correct answer is right.
 The labels are only there to show the structure — you can write the same as a
 normal paragraph.
 
+****************************************
+
 ## Four moves to improve results
 
---{{0}}--
+    --{{0}}--
 Prompting is a conversation. The first answer is a draft, not the end.
 
 The first answer is a **draft**. Instead of starting again, continue the
@@ -254,6 +277,10 @@ conversation with one of four moves:
 <div class="card card--violet"><div class="card__title">④ Make it show its limits</div><em>"List the assumptions you made, and mark every statement I should check against the manufacturer's manual."</em></div>
 </div>
 
+    --{{1}}--
+Be careful with the question: are you sure?
+
+      {{1}}
 <div class="box box--warn">
 <div class="box__label">Careful with "Are you sure?"</div>
 
@@ -265,7 +292,7 @@ the same system.
 
 ## Ground it in your source
 
---{{0}}--
+    --{{0}}--
 The most effective way to get correct, local content is to give the AI your own source.
 
 In Nugget 2 you met **grounding**: the AI cannot know your curriculum, your
@@ -283,17 +310,26 @@ learners. If the text does not contain enough information, say so instead
 of adding facts.
 ```
 
+    --{{1}}--
+Three good habits.
+
+      {{1}}
+****************************************
+
 Three good habits:
 
 1. Put the source in **clear quotation marks** or between `"""` lines.
 2. Say **"only from the text above"**.
 3. Allow the AI to **say "I don't know"**. By default, models always produce something.
 
+****************************************
+
 ## Pattern cards for TVET teachers
 
---{{0}}--
+    --{{0}}--
 Here are six prompt patterns you can adapt. Copy them into your own prompt library.
 
+<!-- data-type="none" -->
 | Pattern | Prompt skeleton |
 | --- | --- |
 | **Lesson starter** | *"Suggest three short, realistic workplace situations from [trade] that make [topic] relevant for [learners]. Each ends with a question for discussion."* |
@@ -303,6 +339,10 @@ Here are six prompt patterns you can adapt. Copy them into your own prompt libra
 | **Role-play partner** | *"Play a customer at [workplace] who is unhappy about [situation]. Stay in role. After 6 exchanges, stop and give the learner feedback on politeness and clarity."* |
 | **Socratic tutor** | *"Help me find the fault in [system] by asking me one question at a time. Do not tell me the answer."* |
 
+    --{{1}}--
+When a prompt works well, save it.
+
+      {{1}}
 <div class="box">
 <div class="box__label">Save what works</div>
 
@@ -314,10 +354,10 @@ prompt library is worth more than a new tool.
 
 # ③ Try: Rebuild a prompt
 
-@steps(3)
-
---{{0}}--
+    --{{0}}--
 Now build your own prompt with the five blocks. The task takes about ten minutes.
+
+@steps(3)
 
 <div class="box box--try">
 <div class="box__label">Task · 10 minutes</div>
@@ -333,6 +373,14 @@ Now build your own prompt with the five blocks. The task takes about ten minutes
 look at the example comparison below.
 
 </div>
+
+    --{{1}}--
+Write your T R A C E prompt in the fields below.
+
+      {{1}}
+****************************************
+
+**Write:** your T·R·A·C·E prompt
 
 **T · Task**
 
@@ -354,9 +402,17 @@ look at the example comparison below.
 
 [[___]]
 
-<details>
-<summary><strong>Example comparison (Nuwan's quiz)</strong></summary>
+****************************************
 
+    --{{2}}--
+Here is an example comparison for Nuwan's quiz.
+
+      {{2}}
+<details>
+
+<summary><strong>✅ Example comparison (Nuwan's quiz)</strong></summary>
+
+<!-- data-type="none" -->
 | | One-line prompt | T·R·A·C·E prompt |
 | --- | --- | --- |
 | Relevance | history, bicycles, cars mixed | only disc brakes in cars |
@@ -372,64 +428,106 @@ guessing**.
 
 # ④ Check
 
-@steps(4)
-
---{{0}}--
+    --{{0}}--
 Five questions. Read the explanation after each one.
 
-**1. What does the "A" in T·R·A·C·E stand for?**
+@steps(4)
 
-[( )] Answer
-[(X)] Audience and context
-[( )] Accuracy
-[( )] Assessment
-************************************************
+**1 · Choose one:** What does the "A" in T·R·A·C·E stand for?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Answer
+- [(X)] Audience and context
+- [( )] Accuracy
+- [( )] Assessment
+[[?]] Which block tells the AI who the learners are?
+***
 The AI does not know your learners. Telling it who they are is often the single
 biggest improvement.
-************************************************
+***
 
-**2. Which building block is missing?** *"Act as an experienced chef. Create 5 questions on knife safety for first-year learners with little reading experience. Use a numbered list."*
+    --{{1}}--
+Question two: which building block is missing?
 
-[( )] Task
-[( )] Role
-[(X)] Constraints (for example: short sentences, one correct answer, which standard to follow)
-[( )] Format
-************************************************
+      {{1}}
+****************************************
+
+**2 · Find the gap:** Which building block is missing? *"Act as an experienced chef. Create 5 questions on knife safety for first-year learners with little reading experience. Use a numbered list."*
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Task
+- [( )] Role
+- [(X)] Constraints (for example: short sentences, one correct answer, which standard to follow)
+- [( )] Format
+[[?]] Go through T·R·A·C·E block by block and tick off what the prompt already contains.
+***
 Task, role, audience and format are there. Constraints — rules and limits — are missing.
-************************************************
+***
 
-**3. The first answer is almost right, but two questions are too hard. What is the best next step?**
+****************************************
 
-[( )] Start a new chat with the same prompt
-[(X)] Continue the conversation and ask to replace exactly those two questions
-[( )] Ask "Are you sure?"
-************************************************
+    --{{2}}--
+Question three: the first answer is almost right. What next?
+
+      {{2}}
+****************************************
+
+**3 · Choose one:** The first answer is almost right, but two questions are too hard. What is the best next step?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Start a new chat with the same prompt
+- [(X)] Continue the conversation and ask to replace exactly those two questions
+- [( )] Ask "Are you sure?"
+[[?]] Which option keeps what is already good?
+***
 Refining keeps what is good and fixes what is not. "Are you sure?" invites the
 model to simply agree with you.
-************************************************
+***
 
-**4. Which instructions help ground an answer in your source? (choose all that apply)**
+****************************************
 
-[[X]] Paste the source text into the prompt
-[[X]] "Use only the text above."
-[[X]] "If the text does not contain the answer, say so."
-[[ ]] "Use your general knowledge to fill any gaps."
-************************************************
+    --{{3}}--
+Question four: which instructions help ground an answer in your source?
+
+      {{3}}
+****************************************
+
+**4 · Choose all that apply:** Which instructions help ground an answer in your source?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[X]] Paste the source text into the prompt
+- [[X]] "Use only the text above."
+- [[X]] "If the text does not contain the answer, say so."
+- [[ ]] "Use your general knowledge to fill any gaps."
+[[?]] Grounding means: the source, and only the source.
+***
 The last instruction does the opposite: it invites facts from outside your source.
-************************************************
+***
 
-**5. Which prompt keeps the effortful thinking with the learner?**
+****************************************
 
-[( )] "Explain the fault and write the repair steps."
-[(X)] "Ask me one question at a time to help me find the fault. Do not tell me the answer."
-[( )] "Summarise the chapter so I don't have to read it."
+    --{{4}}--
+Question five: which prompt keeps the thinking with the learner?
+
+      {{4}}
+****************************************
+
+**5 · Choose one:** Which prompt keeps the effortful thinking with the learner?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] "Explain the fault and write the repair steps."
+- [(X)] "Ask me one question at a time to help me find the fault. Do not tell me the answer."
+- [( )] "Summarise the chapter so I don't have to read it."
+[[?]] Which prompt asks the learner instead of answering for them?
+
+****************************************
 
 # ⑤ Reflect and transfer
 
-@steps(5)
-
---{{0}}--
+    --{{0}}--
 Let us connect prompting with your teaching — and with your learners.
+
+@steps(5)
 
 <div class="box box--class">
 <div class="box__label">In your classroom · "Work order for a machine" (20 minutes)</div>
@@ -444,25 +542,39 @@ Clear instructions, checking results, taking responsibility — these are
 
 </div>
 
+    --{{1}}--
+Now write in your learning journal.
+
+      {{1}}
+****************************************
+
 **Learning journal**
 
-Look at your diagnosis of Nuwan's prompt from the start. Which of the five building blocks did you already find, and which did you miss?
+**Reflect:** Look at your diagnosis of Nuwan's prompt from the start. Which of the five building blocks did you already find, and which did you miss?
 
 [[___ ___]]
 
-My first entry for my personal prompt library (a prompt I will really use):
+**Write:** My first entry for my personal prompt library (a prompt I will really use):
 
 [[___ ___ ___]]
 
+****************************************
+
 # ⑥ Look ahead: From prompts to agents
+
+    --{{0}}--
+Prompting is only the beginning. In a few years, the way we work with AI has changed a lot. Here is an overview, for orientation only.
 
 @steps(6)
 
---{{0}}--
-Prompting is only the beginning. In a few years, the way we work with AI has changed a lot. Here is an overview, for orientation only.
-
 This part is an **outlook**. You do not need to use any of this now — but your
 learners will meet it at work, and you will hear the words everywhere.
+
+    --{{1}}--
+Since 2022, people have kept moving what worked out of the chat window into something that can be reused, checked and run again.
+
+      {{1}}
+****************************************
 
 Since 2022, people have kept doing the same thing: **moving what worked out of the
 chat window and into something that can be reused, checked and run again.**
@@ -481,6 +593,15 @@ chat window and into something that can be reused, checked and run again.**
   every time        rules once           steps and checks      checks and limits
 ```
 
+****************************************
+
+    --{{2}}--
+Four stages: prompt, stored instruction, harness, and loop or agent.
+
+      {{2}}
+****************************************
+
+<!-- data-type="none" -->
 | Stage | What it is | Everyday example |
 | --- | --- | --- |
 | **1 · Prompt** | one request, one answer | you ask for a quiz, as in this nugget |
@@ -488,6 +609,12 @@ chat window and into something that can be reused, checked and run again.**
 | **3 · Harness** | a program around the model runs fixed steps on many inputs, can use tools (search, files, calculator) and records what it did | every learner email is sorted, a draft reply is written, and each draft is saved with a note of how it was made |
 | **4 · Loop / agent** | the system checks its own output against rules, revises, **chooses its next action** and stops when a condition is met | an assistant plans a workshop schedule, checks room and machine availability, fixes conflicts, and asks a person to approve |
 
+****************************************
+
+    --{{3}}--
+For most teaching tasks, stage one and two are the right choice.
+
+      {{3}}
 The dates show when each stage became **common practice**. All four stages
 exist side by side today — and for most teaching tasks, **stage 1 and 2 are the
 right choice**. A later stage is not better; it retains and automates more — and
@@ -495,7 +622,7 @@ creates more that has to be checked.
 
 ## Assistant or agent?
 
---{{0}}--
+    --{{0}}--
 The words assistant and agent are often mixed up. One question separates them.
 
 One question tells them apart: **who decides what happens next?**
@@ -505,12 +632,24 @@ One question tells them apart: **who decides what happens next?**
 <div class="card card--indigo"><div class="card__title">Agent</div>The system decides the next step itself, from a set of allowed actions, and repeats until it is done.</div>
 </div>
 
+    --{{1}}--
+A system is only an agent if it passes three tests.
+
+      {{1}}
+****************************************
+
 A system is only an agent if it passes **three tests**:
 
 1. **It chooses** — the order of steps is not fixed in advance by a person.
 2. **It acts** — its choices change something: a file is written, a booking made, a message sent.
 3. **It stops on a rule** — there is a clear, checkable condition for "finished", and a limit on the number of rounds.
 
+****************************************
+
+    --{{2}}--
+Why this matters: an agent can only do what people allow it to do.
+
+      {{2}}
 <div class="box box--warn">
 <div class="box__label">Why this matters</div>
 
@@ -523,7 +662,7 @@ your data.
 
 ## Do agents learn by themselves?
 
---{{0}}--
+    --{{0}}--
 You will hear about self-learning or self-improving agents. Here is what that really means.
 
 You will hear of **"self-learning"** or **"self-improving"** agents. Remember
@@ -535,6 +674,10 @@ Nugget 2: **the model does not change when it is used.** What changes is
 - **skills** — instruction files for recurring tasks;
 - a **knowledge file or wiki** with approved answers to earlier questions.
 
+    --{{1}}--
+The system reads its notes, does the task, checks the results and writes a lesson. A person reviews the notes.
+
+      {{1}}
 ```ascii
  +---------+     +-----------+     +---------+     +----------+
  |  read   |---->|  do the   |---->|  check  |---->|  write   |
@@ -547,6 +690,10 @@ Nugget 2: **the model does not change when it is used.** What changes is
                      +------------------+
 ```
 
+    --{{2}}--
+Someone has to review what the system learned.
+
+      {{2}}
 This makes a system better over time **without changing the model**. It also
 brings new responsibilities: whoever can edit the notes influences every later
 result; errors in the notes are repeated; and personal data must not be stored
@@ -554,7 +701,7 @@ there. **Someone has to review what the system "learned".**
 
 ## What this means for TVET
 
---{{0}}--
+    --{{0}}--
 Finally, what does this development mean for you and your learners?
 
 <div class="cards">
@@ -563,12 +710,25 @@ Finally, what does this development mean for you and your learners?
 <div class="card card--amber"><div class="card__title">Prompting stays the base</div>Every stage builds on clear instructions. What you practised today is the foundation for all of it.</div>
 </div>
 
+    --{{1}}--
+How the stages relate to the UNESCO levels.
+
+      {{1}}
+****************************************
+
+<!-- data-type="none" -->
 | Stage | UNESCO level it relates to (this course's assignment) |
 | --- | --- |
 | Prompting | **Acquire** — use an AI tool appropriately |
 | Stored instructions, harness | **Deepen** — integrate AI into your practice and check it systematically |
 | Designing loops and agents, deciding stop rules | **Create** — design new AI-supported ways of working |
 
+****************************************
+
+    --{{2}}--
+Here are the take-aways of this nugget.
+
+      {{2}}
 <div class="takeaways">
 
 **Take-aways**
@@ -581,6 +741,10 @@ Finally, what does this development mean for you and your learners?
 
 </div>
 
+    --{{3}}--
+Next comes nugget five: quality and ethics.
+
+      {{3}}
 <div class="box box--ahead">
 <div class="box__label">Next: Nugget 5 · Quality and Ethics</div>
 
@@ -591,6 +755,9 @@ decisions in TVET.
 </div>
 
 ## Sources and further reading
+
+    --{{0}}--
+Here are the sources of this nugget and suggestions for further reading.
 
 - UNESCO (2024). *AI competency framework for teachers.*
   https://www.unesco.org/en/articles/ai-competency-framework-teachers

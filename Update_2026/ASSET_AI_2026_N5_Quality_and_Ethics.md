@@ -1,9 +1,10 @@
 <!--
 author:   Hannes Tegelbeckers · OVGU Magdeburg · ASSET project (UNESCO-UNEVOC Network)
 email:    hannes.tegelbeckers@ovgu.de
-version:  2026.1.0
+version:  2026.2.0
 language: en
 narrator: UK English Female
+mode:     Presentation
 license:  CC BY-SA 4.0
 comment:  ASSET AI starter course 2026, Nugget 5 of 5 (Quality and Ethics): failure modes, the F-A-C-T-S check, four ethical lenses, AI detectors, class rules, next steps. Acquire level.
 
@@ -123,7 +124,7 @@ comment:  ASSET AI starter course 2026, Nugget 5 of 5 (Quality and Ethics): fail
 
 # Nugget 5 · Quality and Ethics
 
---{{0}}--
+    --{{0}}--
 Welcome to the last nugget of the starter course. Today is about using AI responsibly: checking what it produces, protecting learners, and deciding well.
 
 <div class="hero">
@@ -156,15 +157,21 @@ Welcome to the last nugget of the starter course. Today is about using AI respon
 
 # ① Start: Two uncomfortable moments
 
-@steps(1)
-
---{{0}}--
+    --{{0}}--
 Two situations from the training centres we already know.
+
+@steps(1)
 
 <div class="cards">
 <div class="card card--amber"><div class="card__title">Jonas, Germany</div>A colleague gives Jonas an AI-generated worksheet on angle grinder safety: "Looks great, just print it." Jonas reads it the evening before class and finds a rule that could cause a serious accident.</div>
 <div class="card card--amber"><div class="card__title">Anjali, Mauritius</div>An online "AI detector" says a learner's written assignment is "87 % AI-generated". The learner, who writes in English as a third language, says: "I wrote it myself." The head of department asks Anjali to fail the assignment.</div>
 </div>
+
+    --{{1}}--
+What should Anjali do?
+
+      {{1}}
+****************************************
 
 <div class="box box--case">
 <div class="box__label">Your first reaction</div>
@@ -173,23 +180,28 @@ What should Anjali do?
 
 </div>
 
+**Choose one:**
+
 [(1)] Fail the assignment — the detector is clear
 [(2)] Ask the learner to talk about the assignment and show drafts or notes
 [(3)] Run the text through a second detector
 [(4)] Accept the assignment without further questions
 [(5)] I don't know yet
 
+****************************************
+
 # ② Understand: How AI output fails
 
-@steps(2)
-
---{{0}}--
+    --{{0}}--
 Some AI errors are easy to spot. Others are invisible in a single answer and only show up over time.
+
+@steps(2)
 
 Some failures can be found by **checking one answer** against a source. Others
 **do not show in a single answer** — they affect the person using the AI, or a
 whole group of learners.
 
+<!-- data-type="none" -->
 | Failure | In one sentence | Visible in one answer? |
 | --- | --- | --- |
 | **Fabrication** | plausible but false facts, numbers or sources | yes — check against a source |
@@ -200,6 +212,10 @@ whole group of learners.
 | **Sameness** | thirty learners' texts share the same structure and examples | only across a set |
 | **Learning stall** | the effortful part is skipped; the gap shows later, at the machine | no — visible later |
 
+    --{{1}}--
+In TVET, errors can hurt people.
+
+      {{1}}
 <div class="box box--warn">
 <div class="box__label">In TVET, errors can hurt people</div>
 
@@ -212,7 +228,7 @@ manufacturer's manual.
 
 ## The F·A·C·T·S routine
 
---{{0}}--
+    --{{0}}--
 Here is a simple routine to check any AI-generated teaching material before you use it.
 
 Before you use AI-generated material, check the **F·A·C·T·S**:
@@ -225,12 +241,16 @@ Before you use AI-generated material, check the **F·A·C·T·S**:
 <div class="card card--red"><div class="card__title">S · Safety and sources</div>Safety steps correct and complete? Do the cited sources exist and say this?</div>
 </div>
 
+    --{{1}}--
+The routine takes a few minutes, and it also protects you.
+
+      {{1}}
 The routine takes a few minutes. It also protects **you**: you remain responsible
 for every material you hand out, whoever drafted it.
 
 ## Four ethical lenses
 
---{{0}}--
+    --{{0}}--
 Ethical questions about AI in TVET can be examined through four lenses.
 
 Look at any AI use in your institution through four lenses:
@@ -242,6 +262,10 @@ Look at any AI use in your institution through four lenses:
 <div class="card card--teal"><div class="card__title">🌍 Fairness and cultural relevance</div>Does it work equally well for all learners — languages, cultures, genders, disabilities?</div>
 </div>
 
+    --{{1}}--
+An example: a skills-assessment camera.
+
+      {{1}}
 <div class="box box--case">
 <div class="box__label">Example: a skills-assessment camera</div>
 
@@ -259,7 +283,7 @@ learners feel watched and stop trying new approaches.
 
 ## Honest and fair rules
 
---{{0}}--
+    --{{0}}--
 Now to Anjali's situation: AI detectors, transparency, and fair rules.
 
 **AI detectors are not evidence.** Studies show that tools claiming to detect
@@ -268,6 +292,12 @@ people writing in a second or third language more often than texts by native
 speakers. A detector score **must never be the only reason** for an accusation or
 a grade.
 
+    --{{1}}--
+What works better?
+
+      {{1}}
+****************************************
+
 What works better:
 
 - **Talk to the learner** about the content: *"Explain this paragraph to me."*
@@ -275,16 +305,31 @@ What works better:
 - Design assessment so that the key competence is shown **in practice or orally**.
 - Agree on **clear rules in advance**, so learners know what is allowed.
 
+****************************************
+
+    --{{2}}--
+Agree on clear rules in advance: allowed, allowed if stated, and not allowed.
+
+      {{2}}
 <div class="cards">
 <div class="card card--green"><div class="card__title">🟢 Allowed</div>e.g. checking spelling, translating instructions, getting ideas for a topic</div>
 <div class="card card--amber"><div class="card__title">🟠 Allowed if stated</div>e.g. improving the structure of a text, getting feedback on a draft — say how you used it</div>
 <div class="card card--red"><div class="card__title">🔴 Not allowed</div>e.g. letting AI write the technical justification that is being assessed</div>
 </div>
 
+    --{{3}}--
+Be transparent yourself. Learners learn honest AI use from your example.
+
+      {{3}}
 **Be transparent yourself.** If you use AI to prepare materials or feedback,
 say so. Learners learn honest AI use from your example.
 
+    --{{4}}--
+If you like, read more about laws, policies and sustainability.
+
+      {{4}}
 <details>
+
 <summary><strong>Read more: laws, policies and sustainability</strong></summary>
 
 - **Institutional policy first.** Check whether your school or company has an AI
@@ -305,10 +350,10 @@ say so. Learners learn honest AI use from your example.
 
 # ③ Try: Check a worksheet
 
-@steps(3)
-
---{{0}}--
+    --{{0}}--
 This task needs no AI tool. Check the worksheet with the F·A·C·T·S routine.
+
+@steps(3)
 
 <div class="box box--try">
 <div class="box__label">Task · 10 minutes — no AI tool needed</div>
@@ -333,16 +378,24 @@ you will find at least three.
 
 </div>
 
-**Which numbered points are problematic?** (choose all that apply)
+    --{{1}}--
+Which numbered points are problematic?
 
-[[ ]] 1
-[[ ]] 2
-[[X]] 3
-[[X]] 4
-[[X]] 5
-[[ ]] 6
-[[X]] 7
-************************************************
+      {{1}}
+****************************************
+
+**Choose all that apply:** Which numbered points are problematic?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[ ]] 1
+- [[ ]] 2
+- [[X]] 3
+- [[X]] 4
+- [[X]] 5
+- [[ ]] 6
+- [[X]] 7
+[[?]] Go through the worksheet with F·A·C·T·S: numbers and rules, safety steps, cited sources, and wording.
+***
 - **3 — Facts (dangerous):** the reverse is correct. The maximum speed of the disc
   must be **equal to or higher** than the speed of the grinder, otherwise the disc
   can burst.
@@ -357,22 +410,26 @@ you will find at least three.
 
 Points 1, 2 and 6 are correct. Notice that the dangerous errors sound just as
 confident as the correct rules.
-************************************************
+***
+
+****************************************
 
 ## Judge the situations
 
---{{0}}--
+    --{{0}}--
 Now judge five situations. Use the four ethical lenses.
 
-Decide for each situation: **acceptable**, **acceptable with conditions**, or **not acceptable**.
+**Decide:** For each situation: **acceptable**, **acceptable with conditions**, or **not acceptable**?
 
+<!-- data-hint-button="1" data-solution-button="2" data-show-partial-solution -->
 [(acceptable) (with conditions) (not acceptable)]
 [ ( ) (X) ( ) ] A teacher uses a chat assistant to draft quiz questions and checks them before use.
 [ ( ) ( ) (X) ] A camera system detects learners' emotions to measure their motivation in class.
 [ ( ) (X) ( ) ] Learners use a translation tool to understand instructions in a second language.
 [ ( ) ( ) (X) ] A learner is failed because an AI detector scored the text as "AI-written".
 [ ( ) (X) ( ) ] An AI tool suggests feedback on anonymised learner texts; the teacher edits and signs it.
-************************************************
+[[?]] Look at each situation through the four lenses: human agency, privacy, safety and security, fairness.
+***
 - **Quiz drafts:** fine — with the F·A·C·T·S check.
 - **Emotion detection:** a serious intrusion into privacy and dignity, scientifically
   doubtful, and prohibited in education institutions in the EU.
@@ -381,70 +438,112 @@ Decide for each situation: **acceptable**, **acceptable with conditions**, or **
 - **Detector as evidence:** unreliable and unfair, especially for multilingual learners.
 - **Feedback suggestions:** fine if the data is anonymised, the tool is approved and
   the teacher decides.
-************************************************
+***
 
 # ④ Check
 
-@steps(4)
-
---{{0}}--
+    --{{0}}--
 Five final questions.
 
-**1. Which failure can you NOT detect by checking a single AI answer?**
+@steps(4)
 
-[( )] An invented source
-[( )] A wrong number
-[(X)] Your own checking becoming less careful after many good answers
-************************************************
+**1 · Choose one:** Which failure can you NOT detect by checking a single AI answer?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] An invented source
+- [( )] A wrong number
+- [(X)] Your own checking becoming less careful after many good answers
+[[?]] Look at the last column of the table of failures.
+***
 Checking fatigue is about the person, not the answer. Countermeasures are
 procedures: checklists, a second reader, sources outside the conversation.
-************************************************
+***
 
-**2. What does the "C" in F·A·C·T·S stand for?**
+    --{{1}}--
+Question two: what does the C in FACTS stand for?
 
-[( )] Creative and clear
-[(X)] Complete and current
-[( )] Copyright and cost
-************************************************
+      {{1}}
+****************************************
+
+**2 · Choose one:** What does the "C" in F·A·C·T·S stand for?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Creative and clear
+- [(X)] Complete and current
+- [( )] Copyright and cost
+[[?]] Think of the five cards of the F·A·C·T·S routine.
+***
 Complete (no missing steps) and current (the valid, local version of a rule).
-************************************************
+***
 
-**3. An AI detector says a text is "90 % AI-generated". What is the appropriate response?**
+****************************************
 
-[( )] Fail the assignment
-[(X)] Treat it as, at most, a reason for a conversation about the content and the process
-[( )] Use a second detector to confirm
-************************************************
+    --{{2}}--
+Question three: an AI detector gives a high score. What do you do?
+
+      {{2}}
+****************************************
+
+**3 · Choose one:** An AI detector says a text is "90 % AI-generated". What is the appropriate response?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] Fail the assignment
+- [(X)] Treat it as, at most, a reason for a conversation about the content and the process
+- [( )] Use a second detector to confirm
+[[?]] Are AI detectors evidence?
+***
 Detectors are unreliable and biased against second-language writers. Evidence
 comes from talking with the learner and from the work process.
-************************************************
+***
 
-**4. Which of these belong to the four ethical lenses in this nugget? (choose all that apply)**
+****************************************
 
-[[X]] Human agency
-[[X]] Privacy
-[[ ]] Speed
-[[X]] Safety and security
-[[X]] Fairness and cultural relevance
-************************************************
+    --{{3}}--
+Question four: which of these are the four ethical lenses?
+
+      {{3}}
+****************************************
+
+**4 · Choose all that apply:** Which of these belong to the four ethical lenses in this nugget?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [[X]] Human agency
+- [[X]] Privacy
+- [[ ]] Speed
+- [[X]] Safety and security
+- [[X]] Fairness and cultural relevance
+[[?]] Which option is a benefit rather than an ethical question?
+***
 Speed may be a benefit, but it is not an ethical lens.
-************************************************
+***
 
-**5. Who is responsible for a worksheet that was drafted by AI and handed out by a teacher?**
+****************************************
 
-[( )] The AI provider
-[( )] Nobody, if the AI made the error
-[(X)] The teacher who handed it out
-************************************************
+    --{{4}}--
+Question five: who is responsible for an AI-drafted worksheet?
+
+      {{4}}
+****************************************
+
+**5 · Choose one:** Who is responsible for a worksheet that was drafted by AI and handed out by a teacher?
+
+<!-- data-hint-button="1" data-solution-button="2" -->
+- [( )] The AI provider
+- [( )] Nobody, if the AI made the error
+- [(X)] The teacher who handed it out
+[[?]] The AI drafts. Who decides to hand the worksheet out?
+***
 AI can draft; the person who uses the material is responsible for it.
-************************************************
+***
+
+****************************************
 
 # ⑤ Reflect and plan
 
-@steps(5)
-
---{{0}}--
+    --{{0}}--
 You have reached the end of the starter course. Let us turn what you learned into action.
+
+@steps(5)
 
 <div class="box box--class">
 <div class="box__label">In your classroom · "Our AI agreement" (30 minutes)</div>
@@ -456,13 +555,27 @@ a few weeks. Learners who help make the rules understand — and keep — them b
 
 </div>
 
+    --{{1}}--
+Now write in your learning journal. Back to Anjali: what would you now advise?
+
+      {{1}}
+****************************************
+
 **Learning journal**
 
-Back to Anjali: what would you now advise, and why?
+**Reflect:** Back to Anjali: what would you now advise, and why?
 
 [[___ ___ ___]]
 
-**My next 30 days** — three small, concrete steps (for example: *"Build a prompt library with five prompts for my module"*, *"Discuss an AI agreement with my class"*, *"Ask which AI tools my institution has approved"*):
+****************************************
+
+    --{{2}}--
+Plan three small, concrete steps for your next thirty days.
+
+      {{2}}
+****************************************
+
+**Plan:** My next 30 days — three small, concrete steps (for example: *"Build a prompt library with five prompts for my module"*, *"Discuss an AI agreement with my class"*, *"Ask which AI tools my institution has approved"*):
 
 Step 1
 
@@ -476,16 +589,26 @@ Step 3
 
 [[___]]
 
-With whom will I share what I learned? (a colleague, my team, a network)
+****************************************
+
+    --{{3}}--
+With whom will you share what you learned?
+
+      {{3}}
+****************************************
+
+**Write:** With whom will I share what I learned? (a colleague, my team, a network)
 
 [[___]]
 
+****************************************
+
 # ⑥ Look ahead: What's next
 
-@steps(6)
-
---{{0}}--
+    --{{0}}--
 Congratulations on completing the starter course. Here is a summary and your options for going further.
+
+@steps(6)
 
 <div class="takeaways">
 
@@ -500,6 +623,10 @@ Congratulations on completing the starter course. Here is a summary and your opt
 
 </div>
 
+    --{{1}}--
+You completed the ASSET starter course. Here is how you can go further.
+
+      {{1}}
 <div class="box box--ahead">
 <div class="box__label">You completed the ASSET starter course 🎉</div>
 
@@ -512,18 +639,29 @@ Competency Framework for Teachers. To go further (**Deepen**):
 
 </div>
 
-**How useful was this starter course for your work?**
+    --{{2}}--
+Please tell us how useful this course was, and what we should improve.
+
+      {{2}}
+****************************************
+
+**Rate:** How useful was this starter course for your work?
 
 [(1)] Not useful
 [(2)] A little useful
 [(3)] Useful
 [(4)] Very useful
 
-**What should we improve?**
+**Write:** What should we improve?
 
 [[___ ___]]
 
+****************************************
+
 ## Sources and further reading
+
+    --{{0}}--
+Here are the sources of this nugget and suggestions for further reading.
 
 - UNESCO (2024). *AI competency framework for teachers*, aspect "Ethics of AI".
   https://www.unesco.org/en/articles/ai-competency-framework-teachers
